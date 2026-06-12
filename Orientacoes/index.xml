@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Mauro Alixandrini</title>
+<link>https://geoinformatica.eng.br/Orientacoes/</link>
+<atom:link href="https://geoinformatica.eng.br/Orientacoes/index.xml" rel="self" type="application/rss+xml"/>
+<description>Mauro Alixandrini is a geoinformatics researcher and educator specialising in spatial data analysis, remote sensing, and geographic information systems. Author of Geoinformática: Uma Abordagem Prática para Engenheiros e Desenvolvedores (Editora Campus).</description>
+<generator>quarto-1.9.37</generator>
+<lastBuildDate>Sat, 03 Jan 2026 03:00:00 GMT</lastBuildDate>
+<item>
+  <title>Eliza Silva Maia</title>
+  <link>https://geoinformatica.eng.br/Orientacoes/Eliza/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Eliza vem desenvolvendo um trabalho de mestrado no PPEC/UFBA sob minha orientação, e coorientação do Prof.&nbsp;Fabiano com o título “Desenvolvimento de Rotinas Automatizadas para Controle de Qualidade Visual de Fotografias Aéreas”. O controle de qualidade é um aspecto crucial da fotogrametria e do LiDAR (Light Detection and Ranging), garantindo a precisão e confiabilidade dos dados coletados. Na fotogrametria, os métodos tradicionais de controle de qualidade envolvem a identificação e correção de erros em pontos de controle do solo (Ground Control Points - GCPs) e imagens aéreas. No entanto, esses métodos podem ser demorados e trabalhosos, especialmente para projetos de grande porte. Com o advento da fotogrametria digital e do LiDAR, surgiram técnicas mais automatizadas para o controle de qualidade como a correspondência de imagens e a detecção de mudanças. Estas técnicas podem ajudar a melhorar a eficiência e precisão do controle de qualidade, mas ainda estão em desenvolvimento e podem ser sensíveis a condições de imagem e terreno. Existem muitos parâmetros para serem avaliados na fiscalização de fotografias aéreas. Alguns deles exigem uma análise que até o momento é feita, na maioria das vezes, de forma manual e visual, a exemplo da detecção de sombras, nuvens, fumaças, brumas, arrasto, saturação/brilho fora do normal, ruídos na imagem, desequilíbrio de cores, pixels zerados ou sobrepostos, dentre outros. Porém, para fazer essa fiscalização é necessária uma equipe com muitos profissionais capacitados, por conta do volume do material, o que não é a realidade de grande parte dos órgãos públicos. Assim sendo, seria de grande utilidade que esses parâmetros pudessem ser verificados de forma automatizada, o que poderia reduzir o tempo e o esforço humano no controle de qualidade, além de aumentar a consistência e precisão das análises.</p>
+<section id="desenvolvimento-de-rotinas-automatizadas-para-controle-de-qualidade-visual-de-fotografias-aéreas" class="level1">
+<h1>Desenvolvimento de Rotinas Automatizadas para Controle de Qualidade Visual de Fotografias Aéreas</h1>
+<p>Orientação: Prof.&nbsp;Mauro Alixandrini Co-orientação: Prof.&nbsp;Fabiano Freiman Programa de Pós-Graduação em Engenharia de Computação (PPEC/UFBA)</p>
+
+
+</section>
+
+ ]]></description>
+  <category>Mestrado</category>
+  <category>PPEC</category>
+  <category>2025.1</category>
+  <guid>https://geoinformatica.eng.br/Orientacoes/Eliza/</guid>
+  <pubDate>Sat, 03 Jan 2026 03:00:00 GMT</pubDate>
+  <media:content url="https://geoinformatica.eng.br/Orientacoes/Eliza/20250416_181520.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Eliza Silva Maia</title>
+  <link>https://geoinformatica.eng.br/Orientacoes/Elmo/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Eliza vem desenvolvendo um trabalho de mestrado no PPEC/UFBA sob minha orientação, e coorientação do Prof.&nbsp;Fabiano com o título “Desenvolvimento de Rotinas Automatizadas para Controle de Qualidade Visual de Fotografias Aéreas”. O controle de qualidade é um aspecto crucial da fotogrametria e do LiDAR (Light Detection and Ranging), garantindo a precisão e confiabilidade dos dados coletados. Na fotogrametria, os métodos tradicionais de controle de qualidade envolvem a identificação e correção de erros em pontos de controle do solo (Ground Control Points - GCPs) e imagens aéreas. No entanto, esses métodos podem ser demorados e trabalhosos, especialmente para projetos de grande porte. Com o advento da fotogrametria digital e do LiDAR, surgiram técnicas mais automatizadas para o controle de qualidade como a correspondência de imagens e a detecção de mudanças. Estas técnicas podem ajudar a melhorar a eficiência e precisão do controle de qualidade, mas ainda estão em desenvolvimento e podem ser sensíveis a condições de imagem e terreno. Existem muitos parâmetros para serem avaliados na fiscalização de fotografias aéreas. Alguns deles exigem uma análise que até o momento é feita, na maioria das vezes, de forma manual e visual, a exemplo da detecção de sombras, nuvens, fumaças, brumas, arrasto, saturação/brilho fora do normal, ruídos na imagem, desequilíbrio de cores, pixels zerados ou sobrepostos, dentre outros. Porém, para fazer essa fiscalização é necessária uma equipe com muitos profissionais capacitados, por conta do volume do material, o que não é a realidade de grande parte dos órgãos públicos. Assim sendo, seria de grande utilidade que esses parâmetros pudessem ser verificados de forma automatizada, o que poderia reduzir o tempo e o esforço humano no controle de qualidade, além de aumentar a consistência e precisão das análises.</p>
+<section id="desenvolvimento-de-rotinas-automatizadas-para-controle-de-qualidade-visual-de-fotografias-aéreas" class="level1">
+<h1>Desenvolvimento de Rotinas Automatizadas para Controle de Qualidade Visual de Fotografias Aéreas</h1>
+<p>Orientação: Prof.&nbsp;Mauro Alixandrini Co-orientação: Prof.&nbsp;Fabiano Freiman Programa de Pós-Graduação em Engenharia de Computação (PPEC/UFBA)</p>
+
+
+</section>
+
+ ]]></description>
+  <category>Mestrado</category>
+  <category>PPEC</category>
+  <category>2025.1</category>
+  <guid>https://geoinformatica.eng.br/Orientacoes/Elmo/</guid>
+  <pubDate>Sat, 03 Jan 2026 03:00:00 GMT</pubDate>
+  <media:content url="https://geoinformatica.eng.br/Orientacoes/Elmo/20250416_181520.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Taís Sousa Andrade</title>
+  <link>https://geoinformatica.eng.br/Orientacoes/Thais/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Taís vem desenvolvendo um trabalho de mestrado no PPEC/UFBA sob minha orientação, com o título “Reconhecimento de Coordenadas Espaciais em Textos de Linguagem Natural utilizando BERTimbau”. O estudo tem se desenvolvido com foco na aplicação de técnicas de aprendizado profundo para a extração de coordenadas espaciais em documentos fundiários, utilizando o modelo BERTimbau. O trabalho tem apresentado resultados promissores com publicação de artigos em conferências internacionais e nacionais, contatos com pesquisadores extrangeiros e dado início a um acordo de cooperação técnica com o segundo cartório de registro de imóveis de Salvador para aplicação do método desenvolvido em um cenário real.</p>
+<section id="reconhecimento-de-coordenadas-espaciais-em-textos-de-linguagem-natural-utilizando-bertimbau" class="level1">
+<h1>Reconhecimento de Coordenadas Espaciais em Textos de Linguagem Natural utilizando BERTimbau</h1>
+<p>Orientação: Prof.&nbsp;Mauro Alixandrini Co-orientação: Prof.&nbsp;Jorge Ubirajara Programa de Pós-Graduação em Engenharia de Computação (PPEC/UFBA)</p>
+<section id="resumo" class="level2">
+<h2 class="anchored" data-anchor-id="resumo">Resumo</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://huggingface.co/neuralmind/bert-base-portuguese-cased"><img src="https://geoinformatica.eng.br/Bertimbau.png" class="img-fluid figure-img"></a></p>
+<figcaption>Modelo BERT pretreinado - BERTimbau</figcaption>
+</figure>
+</div>
+<p>O presente estudo tem como objetivo desenvolver um método baseado em aprendizado profundo para o reconhecimento e extração de coordenadas espaciais em textos de linguagem natural, utilizando o BERTimbau. A metodologia adotada envolve a coleta e anotação de um conjunto de dados composto por documentos fundiários que contenham referências geoespaciais. O modelo foi ajustado por meio de ine-tuning para a tarefa de Reconhecimento de Entidades Nomeadas, utilizando técnicas como tokenização WordPiece e ajuste de hiperparâmetros a partir de validação cruzada (k=5). A avaliação será realizada por meio das métricas F1-score, precisão e revocação, comparando o desempenho do modelo ajustado com a versão não treinada do BERTimbau. Os resultados preliminares indicam bom desempenho do BERTimbau para o REN de coordenadas espaciais (F1-score = 0,804) a partir da configuração da taxa de aprendizado de 5 x 10 −5 , tamanho do batch 8 e 5 épocas. Ruídos de OCR, desbalanceamento das classes BIO e fragmentação por janelamento foram desafios identificados no experimento piloto. Ao tratar coordenadas como entidades-alvo, a pesquisa expande o geoparsing para além de topônimos e sinaliza potencial de automação confiável na análise documental em engenharia, cadastro e regularização fundiária.</p>
+</section>
+</section>
+<section id="desenvolvimento-de-sistema-inteligente-para-reconhecimento-e-extração-de-coordenadas-espaciais-e-informações-fundiárias-em-matrículas-de-imóveis" class="level1">
+<h1>Desenvolvimento de Sistema Inteligente para Reconhecimento e Extração de Coordenadas Espaciais e Informações Fundiárias em Matrículas de Imóveis</h1>
+<p><img src="https://geoinformatica.eng.br/Orientacoes/Thais/ACT.png" class="img-fluid"></p>
+<p>O objeto do presente Acordo de Cooperação Técnica é a execução de uma proposta de pesquisa que utiliza base de dados de documentos cartorários de matriculas de imóveis para desenvolvimento de uma metodologia aplicada baseada em Aprendizado Profundo (Deep Learning) e Processamento de Linguagem Natural (PLN) – utilizando o modelo BERTimbau – com o objetivo de reconhecer e extrair automaticamente coordenadas espaciais e outras informações relevantes de textos não estruturados de matrículas e documentos fundiários do acervo do Cartório. O produto final será um modelo de inteligência artificial e uma base de dados estruturada para aplicação em geotecnologias a ser executado na unidade Escola Politécnica da UFBA, conforme especificações estabelecidas no plano de trabalho.</p>
+</section>
+<section id="artigos" class="level1">
+<h1>Artigos</h1>
+<p><a href="https://www.researchgate.net/publication/405210158_Geoparsing_of_Spatial_Coordinates_in_Brazilian_Land_Tenure_Documents_with_Deep_Learning">Geoparsing of Spatial Coordinates in Brazilian Land Tenure Documents with Deep Learning. Fourth International Workshop on Geographic Information Extraction from Texts (GeoExT 2026)At: Delft, The Netherlands, abril de 2026</a></p>
+<p><a href="https://www.researchgate.net/publication/391980386_INOVACOES_EM_PROCESSAMENTO_DE_LINGUAGEM_NATURAL_PARA_GEOPARSING_-_UMA_REVISAO_SISTEMATICA">INOVAÇÕES EM PROCESSAMENTO DE LINGUAGEM NATURAL PARA GEOPARSING - UMA REVISÃO SISTEMÁTICA. Conference: XXI Brazilian Symposium on Remote SensingAt: Salvador, maio de 2025</a></p>
+
+
+</section>
+
+ ]]></description>
+  <category>Mestrado</category>
+  <category>PPEC</category>
+  <category>2024.1</category>
+  <guid>https://geoinformatica.eng.br/Orientacoes/Thais/</guid>
+  <pubDate>Fri, 03 Jan 2025 03:00:00 GMT</pubDate>
+  <media:content url="https://geoinformatica.eng.br/Orientacoes/Thais/IMG-20250415-WA0006.jpg" medium="image" type="image/jpeg"/>
+</item>
+</channel>
+</rss>

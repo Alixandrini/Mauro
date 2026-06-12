@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Mauro Alixandrini</title>
+<link>https://geoinformatica.eng.br/Projetos/</link>
+<atom:link href="https://geoinformatica.eng.br/Projetos/index.xml" rel="self" type="application/rss+xml"/>
+<description>Mauro Alixandrini is a geoinformatics researcher and educator specialising in spatial data analysis, remote sensing, and geographic information systems. Author of Geoinformática: Uma Abordagem Prática para Engenheiros e Desenvolvedores (Editora Campus).</description>
+<generator>quarto-1.9.37</generator>
+<lastBuildDate>Sun, 03 Dec 2023 03:00:00 GMT</lastBuildDate>
+<item>
+  <title>Escaneamento EP</title>
+  <link>https://geoinformatica.eng.br/Projetos/EP/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="nuvem-lidar-obtida-na-ep" class="level2">
+<h2 class="anchored" data-anchor-id="nuvem-lidar-obtida-na-ep">Nuvem Lidar obtida na EP</h2>
+<p>Nuvem escaneado com FJD Trion P1 e convertida para o formato Potree <a href="https://3dgis.geoinformatica.eng.br/"><img src="https://geoinformatica.eng.br/Projetos/EP/print.png" class="img-fluid"></a></p>
+
+
+</section>
+
+ ]]></description>
+  <category>Extensão</category>
+  <category>Ensino</category>
+  <guid>https://geoinformatica.eng.br/Projetos/EP/</guid>
+  <pubDate>Sun, 03 Dec 2023 03:00:00 GMT</pubDate>
+  <media:content url="https://geoinformatica.eng.br/Projetos/EP/print.png" medium="image" type="image/png" height="121" width="144"/>
+</item>
+<item>
+  <title>Escaneamento LCAD</title>
+  <link>https://geoinformatica.eng.br/Projetos/LCAD/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="nuvem-lidar-obtida-no-lcad" class="level2">
+<h2 class="anchored" data-anchor-id="nuvem-lidar-obtida-no-lcad">Nuvem Lidar obtida no LCAD</h2>
+<p>Nuvem escaneado com FJD Trion P1 e convertida para o formato Potree <a href="https://geoinformatica.eng.br/LCAD/"><img src="https://geoinformatica.eng.br/Projetos/LCAD/print.png" class="img-fluid"></a></p>
+
+
+</section>
+
+ ]]></description>
+  <category>Extensão</category>
+  <category>Ensino</category>
+  <guid>https://geoinformatica.eng.br/Projetos/LCAD/</guid>
+  <pubDate>Sun, 03 Dec 2023 03:00:00 GMT</pubDate>
+  <media:content url="https://geoinformatica.eng.br/Projetos/LCAD/print.png" medium="image" type="image/png" height="115" width="144"/>
+</item>
+<item>
+  <title>Cooperação Técnica com a Prefeitura de Salvador</title>
+  <link>https://geoinformatica.eng.br/Projetos/PMS/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="objetivos" class="level2">
+<h2 class="anchored" data-anchor-id="objetivos">OBJETIVOS</h2>
+<p>Desenvolver soluções tecnológicas com mapeamento e apoio técnico para uso e contratação de serviços de mapeamento aerofotogramétrico e Mapeamento Móvel Terrestre.</p>
+</section>
+<section id="contexto" class="level2">
+<h2 class="anchored" data-anchor-id="contexto">Contexto</h2>
+<p>Dentro de um plano para atualização das bases cartográficas do município de Salvador foram contratados os serviços de mapeamento e adensamento da rede básica cadastral municipal através de concorrência pública. Os produtos têm caraterísticas muito distintas dos mapeamentos anteriores por se tratar de dados derivados de Fotogrametria Digital associado à dados LiDAR em um padrão de dados espaciais moderno. Além disso o edital prevê aplicação de novas técnicas de controle de qualidade de mapeamento. Hoje a PMS não conta com profissionais com formação de Engenharia Cartográfica para dar suporte a fiscalização deste projeto.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>PMS</category>
+  <category>Desenvolvimento</category>
+  <category>Extensão</category>
+  <category>Ensino</category>
+  <guid>https://geoinformatica.eng.br/Projetos/PMS/</guid>
+  <pubDate>Sun, 03 Dec 2023 03:00:00 GMT</pubDate>
+  <media:content url="https://geoinformatica.eng.br/Projetos/PMS/IMG-20240730-WA0003.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Mapa 3D UFBA</title>
+  <link>https://geoinformatica.eng.br/Projetos/WebUFBA/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="mapa-3d-ufba" class="level2">
+<h2 class="anchored" data-anchor-id="mapa-3d-ufba">Mapa 3D UFBA</h2>
+<p><a href="https://geoinformatica.eng.br/webUFBA/"><img src="https://geoinformatica.eng.br/Projetos/WebUFBA/print.png" class="img-fluid"></a></p>
+
+
+</section>
+
+ ]]></description>
+  <category>Extensão</category>
+  <category>Ensino</category>
+  <guid>https://geoinformatica.eng.br/Projetos/WebUFBA/</guid>
+  <pubDate>Sun, 03 Dec 2023 03:00:00 GMT</pubDate>
+  <media:content url="https://geoinformatica.eng.br/Projetos/WebUFBA/print.png" medium="image" type="image/png" height="100" width="144"/>
+</item>
+</channel>
+</rss>

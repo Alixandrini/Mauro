@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Mauro Alixandrini</title>
+<link>https://geoinformatica.eng.br/Ensino/</link>
+<atom:link href="https://geoinformatica.eng.br/Ensino/index.xml" rel="self" type="application/rss+xml"/>
+<description>Mauro Alixandrini is a geoinformatics researcher and educator specialising in spatial data analysis, remote sensing, and geographic information systems. Author of Geoinformática: Uma Abordagem Prática para Engenheiros e Desenvolvedores (Editora Campus).</description>
+<generator>quarto-1.9.37</generator>
+<lastBuildDate>Fri, 03 Jan 2025 03:00:00 GMT</lastBuildDate>
+<item>
+  <title>Programação aplicada à Engenharia de Agrimensura</title>
+  <link>https://geoinformatica.eng.br/Ensino/ENGJ20/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="objetivos" class="level2">
+<h2 class="anchored" data-anchor-id="objetivos">OBJETIVOS</h2>
+<ol type="1">
+<li>Sistematizar e organizar o raciocínio na resolução de problemas de forma algorítmica;</li>
+<li>Conhecer as principais formas de representação de um algoritmo, independente de uma linguagem de programação em particular;</li>
+<li>Iniciar o desenvolvimento de programas corretos, eficientes, estruturados, bem documentados e consistentes (robustos);</li>
+<li>Dominar o conceito de funções, funções recursivas, variáveis locais e globais, passagem de parâmetros, ponteiros e passagem de parâmetros por endereço;</li>
+<li>Conhecer a sintaxe e a semântica de uma linguagem de programação estruturada – C;</li>
+<li>Desenvolver programas de pequeno e médio porte, usando variáveis simples e estruturadas (arrays multidimensionais, struct e file), associados às diferentes classes de problemas numéricos e não-numéricos, fundamentais no exercício cotidiano da prática de programação;</li>
+<li>Trabalhar com algoritmos básicos associados a problemas de ordenação e de busca, além de alguns problemas geométricos;</li>
+<li>Estar apto a iniciar o aprendizado de estruturas de dados dinâmicas e técnicas de programação mais avançadas.</li>
+</ol>
+</section>
+<section id="ementa" class="level2">
+<h2 class="anchored" data-anchor-id="ementa">EMENTA</h2>
+<p>Conceitos básicos de computadores. Linguagem de programação. Aplicação de computadores digitais. Técnica e programação estruturada. Linguagem de programação. Conceito de sub-programação. Tópicos em sistemas operacionais. Simulação e otimização. Operações com vetores, matrizes, funções trigonométricas. Manuseio de imagens. Noções de CAD e georreferenciamento.</p>
+</section>
+<section id="conteúdo-programático" class="level2">
+<h2 class="anchored" data-anchor-id="conteúdo-programático">CONTEÚDO PROGRAMÁTICO</h2>
+<p>Estrutura Computacional: hardware e software. Linguagem de Programação de Alto Nível: aspectos históricos, conceitos e características básicas; compiladores existentes em diferentes plataformas; estrutura geral de um programa (linguagem adotada); operadores (atribuição, booleanos, aritméticos, relacionais, outros); precedência entre operadores; expressões aritméticas e booleanas; variáveis simples (identificadores e tipos de dados primitivos; resolução de problemas); comandos de entrada e saída; estruturas de controle de fluxo de execução de programas (comandos de atribuição, seleção e repetição); estruturas de dados homogêneas (arranjos multidimensionais; declaração, inicialização e representação interna; acesso a elementos de forma indexada; geração de números pseudo-aleatórios; resolução de problemas envolvendo arranjos multidimensionais; estudos de casos unidimensionais – problemas de ordenação e de busca; manipulação matricial); estruturas de dados heterogêneas (estruturas – declaração, inicialização e representação interna, acesso a componentes; estruturas aninhadas; arranjos de estruturas; uniões e tipos enumeráveis; arquivos – relevância; conceitos básicos, arquivos do tipo texto e binário; funções de manipulação de arquivos; manipulação de arquivos texto e de arquivos binários); modularidade (filosofia, conceitos básicos, passagem de parâmetros e valores de retorno, variáveis locais e globais); recursividade (princípio de indução finita; definição e exemplos; elaboração de funções recursivas simples; estrutura de pilha subjacente às chamadas recursivas; vantagens e desvantagens do uso da recursão).</p>
+</section>
+<section id="referências" class="level2">
+<h2 class="anchored" data-anchor-id="referências">REFERÊNCIAS</h2>
+<ol type="1">
+<li>ASCENCIO, A. F. G.; CAMPOS, E. A. V. C. Fundamentos da programação de computadores: algoritmos, pascal e C/C++. Pearson Prentice Hall, 2003. 355p.</li>
+<li>KERNINGHAN, B. W.; Pike, R. A Prática de Programação. Rio de Janeiro: Editora Campus, 2000. 280p.</li>
+<li>HOLLOWAY, J. P. Introdução a Programação para Engenharia: resolvendo problemas com algoritmos. LTC Editora, 2006. 339p.</li>
+<li>LOPES, A.; GARCIA, G. Introdução à Programação: 500 exercícios resolvidos. Rio de Janeiro: Editora Campus, 2002. 469p.</li>
+<li>MEDINA, M.; FERTIG, C. Algoritmos e programação: teoria e prática. São Paulo: Novatec Editora, 2005. 384p.</li>
+<li>OLIVEIRA, U. Programando em C, vol.&nbsp;I – fundamentos. Editora Ciência Moderna, 2008. 743p.</li>
+</ol>
+</section>
+<section id="bibliografia-complementar" class="level2">
+<h2 class="anchored" data-anchor-id="bibliografia-complementar">BIBLIOGRAFIA COMPLEMENTAR</h2>
+<ol start="7" type="1">
+<li>MANZANO, Jose Augusto N. G.; OLIVEIRA, Jayr Figueredo de. Algoritmos: lógica para o desenvolvimento de programação. 13. ed.&nbsp;São Paulo: Érica, 2002.</li>
+<li>NORTON, Peter. Introdução à informática. São Paulo: Makron Books do Brasil, 1997.</li>
+<li>FORBELLONE, A.L.V.; EBERSPÄCHER, H.F. Lógica de programação: a construção de algoritmos e estruturas de dados. São Paulo: Makron Books, 1993.</li>
+</ol>
+
+
+</section>
+
+ ]]></description>
+  <category>Python</category>
+  <category>Básico</category>
+  <category>CEAC</category>
+  <guid>https://geoinformatica.eng.br/Ensino/ENGJ20/</guid>
+  <pubDate>Fri, 03 Jan 2025 03:00:00 GMT</pubDate>
+  <media:content url="https://geoinformatica.eng.br/Ensino/ENGJ20/20250703_212956.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Ajustamento de Observações Geodésicas</title>
+  <link>https://geoinformatica.eng.br/Ensino/ENGJ22/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="objetivos" class="level2">
+<h2 class="anchored" data-anchor-id="objetivos">OBJETIVOS</h2>
+<p>Ao final da disciplina o estudante deve saber interpretar avaliações de Observações Geodésicas bem como diferenciar métodos de avaliação e poder debater sobre estratégias de abordagem de Ajustamento de Observações em experimentos de engenharia.<br>
+Compreender as possibilidades do uso de Ajustamento de Observações Geodésicas dentro do escopo de trabalho. Estimar variáveis descritivas utilizando métodos estatísticos.</p>
+</section>
+<section id="ementa" class="level2">
+<h2 class="anchored" data-anchor-id="ementa">EMENTA</h2>
+<p>Métodos de ajustamento de observações geodésicas paramétrico, correlato e combinado. Inversa Generalizada. Ajustamento Livre. Pré-análise. Análise de Tendências, Injunções, Colocação, Filtro de Kalman. Analise da Qualidade e medidas de confiabilidade.</p>
+</section>
+<section id="conteúdo-programático" class="level2">
+<h2 class="anchored" data-anchor-id="conteúdo-programático">CONTEÚDO PROGRAMÁTICO</h2>
+<p>Utilização de Sistemas Lineares e o MMQ. Condicionamento de Sistemas. Ajustamento de Obs. diretas. Utilização do Método Paramétrico. Utilização do Método dos Correlatos. Aplicação do Método dos Correlatos nas triangulações. Utilização do Método Combinado. Utilização de Métodos Iterativos. Aplicação do Método Combinado com Injunções Análise utilizando Elipse dos Erros. Ajustamento Livre Inversas Generalizadas. Aplicação do Filtro de Kalman. Introdução ao Método de Colocação e Métodos Robustos.</p>
+</section>
+<section id="referências" class="level2">
+<h2 class="anchored" data-anchor-id="referências">REFERÊNCIAS</h2>
+<ol type="1">
+<li>GEMAEL, Camil. Introdução ao Ajustamento de Observações: Aplicações Geodésicas. Curitiba: Ed. UFPR, 1984. 319p.</li>
+<li>NAVRATIL, Gerhard. Ausgleichungsrechnung: die Anwendung statistischer Methoden in Vermessungswesen und GIS. Institute f¨ur Geoinformation und Kartographie,Wien:2006.</li>
+<li>GHILANI, C. D. and P. R. WOLF (2006). Adjustment Computations - Spatial Data Analysis (4. ed.). Hoboken, New Jersey: John Wiley &amp; Sons.</li>
+<li>GUPTIL, S. C. and J. L. MORRISON (Eds.) (1995). Elements of Spatial Data Quality. Elsevier, Oxford.</li>
+<li>PEROVI´C, G. (2005). Least Squares. University of Belgrade, Faculty of Civil Engineering.</li>
+<li>LEICK, A. (2004). GPS Satellite Surveying. 3rd Edition. John Wiley &amp; Sons, New York.</li>
+</ol>
+
+
+</section>
+
+ ]]></description>
+  <category>Python</category>
+  <category>Básico</category>
+  <category>CEAC</category>
+  <guid>https://geoinformatica.eng.br/Ensino/ENGJ22/</guid>
+  <pubDate>Fri, 03 Jan 2025 03:00:00 GMT</pubDate>
+  <media:content url="https://geoinformatica.eng.br/Ensino/ENGJ22/IMG-20241018-WA0002.jpg" medium="image" type="image/jpeg"/>
+</item>
+</channel>
+</rss>

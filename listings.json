@@ -1,0 +1,32 @@
+[
+  {
+    "listing": "/Eventos/index.html",
+    "items": [
+      "/Eventos/SPIE/index.html"
+    ]
+  },
+  {
+    "listing": "/Ensino/index.html",
+    "items": [
+      "/Ensino/ENGJ20/index.html",
+      "/Ensino/ENGJ22/index.html"
+    ]
+  },
+  {
+    "listing": "/Orientacoes/index.html",
+    "items": [
+      "/Orientacoes/Eliza/index.html",
+      "/Orientacoes/Elmo/index.html",
+      "/Orientacoes/Thais/index.html"
+    ]
+  },
+  {
+    "listing": "/Projetos/index.html",
+    "items": [
+      "/Projetos/EP/index.html",
+      "/Projetos/LCAD/index.html",
+      "/Projetos/PMS/index.html",
+      "/Projetos/WebUFBA/index.html"
+    ]
+  }
+]

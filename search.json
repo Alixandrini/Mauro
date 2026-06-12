@@ -1,0 +1,457 @@
+[
+  {
+    "objectID": "readme.html",
+    "href": "readme.html",
+    "title": "Mauro Alixandrini",
+    "section": "",
+    "text": "Olá Pessoal, Sou Mauro Alixandrini professor associado da UFBA coordenador do Laboratório de Fotogrametria e Sensoriamento Remoto, atualmente vice-coordenador da Pós-graduação em Engenharia Civil da UFBA e membro permanente do Profágua/UFBA um dos pólos do Programa de Pós-graduação em rede nacional para Gestão e Regulação de Recursos Hidricos Profágua. Atuo em disciplinas de graduação dos cursos de Engenharia de Agrimensura e Cartográfica, Engenharia Civil, Engenharia de Minas e Petróleo, Engenharia Sanitária e Ambiental e Geografia. Atualmente participo da edição de uma disciplina de Ciência de dados espaciais que foi articulada com a participação do PPEC e PPGAU - Programa de Pós-graduação em Arquitetura e urbanismo e deve ser encerrada em um Seminário no final do primeiro semestre de 2026 o SPIE2026 - Seminário de Informações Geoespaciais do grupo de pesquisa de mesmo nome do qual faço parte.\nBio Sou formado em Engenharia Cartográfica na UFPR, neste curso tive oportunidade de fazer parte de um intercâmbio com a então Universidade de Karlsruhe na Alemanha que passava a adotar o nome Karlsruhe Institut für Technologie - KIT (Instituto Tecnológico de Karlsruhe). Esse intercâmbio estava ligado ao Programa UNIBRAL coordenado a época pelos professores Jorge Centento e Cláudia Pereira Krueger. Por meio dessa experiência tive contato com o professor Hans-Peter Baehr que viria a ser meu orientador de doutorado anos mais tarde. Nesse interim cursei o Mestrado junto ao Programa de Pós-graduação em Engenharia Civil na Universidade Federal de Santa Catarina - UFSC na qual atuei como professor substituto no departamento de expressão gráfica ministrando disciplinas de desenho técnico e geometria descritiva para cursos de Engenharia. Durante meu mestrado fui aprovado numa seleção para o Doutorado Integral num programa Bilateral Brasil-Alemanha iniciando em 2006 meu doutorado no KIT que foi finalizado em 2010 mesmo ano da minha aprovação num concurso para professor assistente na Universidade Federal da Bahia-UFBA. A vaga que teve origem no programa REUNI 2 do governo federal foi uma das primeiras vagas então criado Curso de Engenharia de Agrimensura e Cartográfica.\nPrincipais interesses de pesquisa IA/ML: métodos de pós-treinamento (SFT, RLVR, GRPO, DPO, ORPO), ecossistemas de IA com agentes, ajuste fino de agentes, otimização de preferências. Processamento digital de imagens:\nEnsino\nArtigos selecionados\nAfiliações Profissionais\nInstituto de Engenharia do Paraná Representante da Sociedade Brasileira de Cartografia na Bahia\nVida Pessoal Moro em Salvador na Bahia, cidade que conquistou meu coração, mas sou natural de Curitiba no Paraná que visito com frequencia para reencontrar meus pais e amigos.\nNo meu tempo livre gosto de ler (preferencialmente dramas contexto históricos e classicos literários), cozinhar e praticar esportes com meu filho e amigos."
+  },
+  {
+    "objectID": "Projetos/LCAD/index.html",
+    "href": "Projetos/LCAD/index.html",
+    "title": "Escaneamento LCAD",
+    "section": "",
+    "text": "Nuvem escaneado com FJD Trion P1 e convertida para o formato Potree"
+  },
+  {
+    "objectID": "Projetos/LCAD/index.html#nuvem-lidar-obtida-no-lcad",
+    "href": "Projetos/LCAD/index.html#nuvem-lidar-obtida-no-lcad",
+    "title": "Escaneamento LCAD",
+    "section": "",
+    "text": "Nuvem escaneado com FJD Trion P1 e convertida para o formato Potree"
+  },
+  {
+    "objectID": "Projetos/EP/index.html",
+    "href": "Projetos/EP/index.html",
+    "title": "Escaneamento EP",
+    "section": "",
+    "text": "Nuvem escaneado com FJD Trion P1 e convertida para o formato Potree"
+  },
+  {
+    "objectID": "Projetos/EP/index.html#nuvem-lidar-obtida-na-ep",
+    "href": "Projetos/EP/index.html#nuvem-lidar-obtida-na-ep",
+    "title": "Escaneamento EP",
+    "section": "",
+    "text": "Nuvem escaneado com FJD Trion P1 e convertida para o formato Potree"
+  },
+  {
+    "objectID": "Orientacoes/Thais/index.html",
+    "href": "Orientacoes/Thais/index.html",
+    "title": "Taís Sousa Andrade",
+    "section": "",
+    "text": "Taís vem desenvolvendo um trabalho de mestrado no PPEC/UFBA sob minha orientação, com o título “Reconhecimento de Coordenadas Espaciais em Textos de Linguagem Natural utilizando BERTimbau”. O estudo tem se desenvolvido com foco na aplicação de técnicas de aprendizado profundo para a extração de coordenadas espaciais em documentos fundiários, utilizando o modelo BERTimbau. O trabalho tem apresentado resultados promissores com publicação de artigos em conferências internacionais e nacionais, contatos com pesquisadores extrangeiros e dado início a um acordo de cooperação técnica com o segundo cartório de registro de imóveis de Salvador para aplicação do método desenvolvido em um cenário real."
+  },
+  {
+    "objectID": "Orientacoes/Thais/index.html#resumo",
+    "href": "Orientacoes/Thais/index.html#resumo",
+    "title": "Taís Sousa Andrade",
+    "section": "Resumo",
+    "text": "Resumo\n\n\n\nModelo BERT pretreinado - BERTimbau\n\n\nO presente estudo tem como objetivo desenvolver um método baseado em aprendizado profundo para o reconhecimento e extração de coordenadas espaciais em textos de linguagem natural, utilizando o BERTimbau. A metodologia adotada envolve a coleta e anotação de um conjunto de dados composto por documentos fundiários que contenham referências geoespaciais. O modelo foi ajustado por meio de ine-tuning para a tarefa de Reconhecimento de Entidades Nomeadas, utilizando técnicas como tokenização WordPiece e ajuste de hiperparâmetros a partir de validação cruzada (k=5). A avaliação será realizada por meio das métricas F1-score, precisão e revocação, comparando o desempenho do modelo ajustado com a versão não treinada do BERTimbau. Os resultados preliminares indicam bom desempenho do BERTimbau para o REN de coordenadas espaciais (F1-score = 0,804) a partir da configuração da taxa de aprendizado de 5 x 10 −5 , tamanho do batch 8 e 5 épocas. Ruídos de OCR, desbalanceamento das classes BIO e fragmentação por janelamento foram desafios identificados no experimento piloto. Ao tratar coordenadas como entidades-alvo, a pesquisa expande o geoparsing para além de topônimos e sinaliza potencial de automação confiável na análise documental em engenharia, cadastro e regularização fundiária."
+  },
+  {
+    "objectID": "Orientacoes/Elmo/index.html",
+    "href": "Orientacoes/Elmo/index.html",
+    "title": "Eliza Silva Maia",
+    "section": "",
+    "text": "Eliza vem desenvolvendo um trabalho de mestrado no PPEC/UFBA sob minha orientação, e coorientação do Prof. Fabiano com o título “Desenvolvimento de Rotinas Automatizadas para Controle de Qualidade Visual de Fotografias Aéreas”. O controle de qualidade é um aspecto crucial da fotogrametria e do LiDAR (Light Detection and Ranging), garantindo a precisão e confiabilidade dos dados coletados. Na fotogrametria, os métodos tradicionais de controle de qualidade envolvem a identificação e correção de erros em pontos de controle do solo (Ground Control Points - GCPs) e imagens aéreas. No entanto, esses métodos podem ser demorados e trabalhosos, especialmente para projetos de grande porte. Com o advento da fotogrametria digital e do LiDAR, surgiram técnicas mais automatizadas para o controle de qualidade como a correspondência de imagens e a detecção de mudanças. Estas técnicas podem ajudar a melhorar a eficiência e precisão do controle de qualidade, mas ainda estão em desenvolvimento e podem ser sensíveis a condições de imagem e terreno. Existem muitos parâmetros para serem avaliados na fiscalização de fotografias aéreas. Alguns deles exigem uma análise que até o momento é feita, na maioria das vezes, de forma manual e visual, a exemplo da detecção de sombras, nuvens, fumaças, brumas, arrasto, saturação/brilho fora do normal, ruídos na imagem, desequilíbrio de cores, pixels zerados ou sobrepostos, dentre outros. Porém, para fazer essa fiscalização é necessária uma equipe com muitos profissionais capacitados, por conta do volume do material, o que não é a realidade de grande parte dos órgãos públicos. Assim sendo, seria de grande utilidade que esses parâmetros pudessem ser verificados de forma automatizada, o que poderia reduzir o tempo e o esforço humano no controle de qualidade, além de aumentar a consistência e precisão das análises.\n\nDesenvolvimento de Rotinas Automatizadas para Controle de Qualidade Visual de Fotografias Aéreas\nOrientação: Prof. Mauro Alixandrini Co-orientação: Prof. Fabiano Freiman Programa de Pós-Graduação em Engenharia de Computação (PPEC/UFBA)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Mauro Alixandrini",
+    "section": "",
+    "text": "Sou Mauro Alixandrini professor associado da UFBA coordenador do Laboratório de Fotogrametria e Sensoriamento Remoto, atualmente vice-coordenador da Pós-graduação em Engenharia Civil da UFBA e membro permanente do Profágua/UFBA um dos pólos do Programa de Pós-graduação em rede nacional para Gestão e Regulação de Recursos Hidricos Profágua. Atuo em disciplinas de graduação dos cursos de Engenharia de Agrimensura e Cartográfica, Engenharia Civil, Engenharia de Minas e Petróleo, Engenharia Sanitária e Ambiental e Geografia. Atualmente participo da edição de uma disciplina de Ciência de dados espaciais que foi articulada com a participação do PPEC e PPGAU - Programa de Pós-graduação em Arquitetura e urbanismo e deve ser encerrada em um Seminário no final do primeiro semestre de 2026 o SPIE2026 - Seminário de Informações Geoespaciais do grupo de pesquisa de mesmo nome do qual faço parte."
+  },
+  {
+    "objectID": "index.html#olá-pessoal",
+    "href": "index.html#olá-pessoal",
+    "title": "Mauro Alixandrini",
+    "section": "",
+    "text": "Sou Mauro Alixandrini professor associado da UFBA coordenador do Laboratório de Fotogrametria e Sensoriamento Remoto, atualmente vice-coordenador da Pós-graduação em Engenharia Civil da UFBA e membro permanente do Profágua/UFBA um dos pólos do Programa de Pós-graduação em rede nacional para Gestão e Regulação de Recursos Hidricos Profágua. Atuo em disciplinas de graduação dos cursos de Engenharia de Agrimensura e Cartográfica, Engenharia Civil, Engenharia de Minas e Petróleo, Engenharia Sanitária e Ambiental e Geografia. Atualmente participo da edição de uma disciplina de Ciência de dados espaciais que foi articulada com a participação do PPEC e PPGAU - Programa de Pós-graduação em Arquitetura e urbanismo e deve ser encerrada em um Seminário no final do primeiro semestre de 2026 o SPIE2026 - Seminário de Informações Geoespaciais do grupo de pesquisa de mesmo nome do qual faço parte."
+  },
+  {
+    "objectID": "index.html#biografia",
+    "href": "index.html#biografia",
+    "title": "Mauro Alixandrini",
+    "section": "Biografia",
+    "text": "Biografia\nSou formado em Engenharia Cartográfica na UFPR, neste curso tive oportunidade de fazer parte de um intercâmbio com a então Universidade de Karlsruhe na Alemanha que passava a adotar o nome Karlsruhe Institut für Technologie - KIT (Instituto Tecnológico de Karlsruhe). Esse intercâmbio estava ligado ao Programa UNIBRAL coordenado a época pelos professores Jorge Centento e Cláudia Pereira Krueger. Por meio dessa experiência tive contato com o professor Hans-Peter Baehr que viria a ser meu orientador de doutorado anos mais tarde. Nesse interim cursei o Mestrado junto ao Programa de Pós-graduação em Engenharia Civil na Universidade Federal de Santa Catarina - UFSC na qual atuei como professor substituto no departamento de expressão gráfica ministrando disciplinas de desenho técnico e geometria descritiva para cursos de Engenharia. Durante meu mestrado fui aprovado numa seleção para o Doutorado Integral num programa Bilateral Brasil-Alemanha iniciando em 2006 meu doutorado no KIT que foi finalizado em 2010 mesmo ano da minha aprovação num concurso para professor assistente na Universidade Federal da Bahia-UFBA. A vaga que teve origem no programa REUNI 2 do governo federal foi uma das primeiras vagas então criado Curso de Engenharia de Agrimensura e Cartográfica."
+  },
+  {
+    "objectID": "index.html#principais-interesses-de-pesquisa",
+    "href": "index.html#principais-interesses-de-pesquisa",
+    "title": "Mauro Alixandrini",
+    "section": "Principais interesses de pesquisa",
+    "text": "Principais interesses de pesquisa\n\nIA/ML: métodos de pós-treinamento (SFT, RLVR, GRPO, DPO, ORPO), ecossistemas de IA com agentes, ajuste fino de agentes, otimização de preferências.\nProcessamento digital de imagens: realce, transformações, filtros morfológicos, segmentação e classificação.\nSensoriamento Remoto: novos sensores, sensores óticos, modelagem espaço temporal.\nGIS: banco de dados geoespacial, modelagem conceitual, infra-estrutura de dados espacias, mapeamento colaborativo.\nGeoIA: treinamento de GeoIA, desenvolvimento de aplicações e design de agentes."
+  },
+  {
+    "objectID": "index.html#ensino",
+    "href": "index.html#ensino",
+    "title": "Mauro Alixandrini",
+    "section": "Ensino",
+    "text": "Ensino\n\nProgramação aplicada á Engenharia de Agrimensura e Cartográfica\nAjustamento de Observações Geodésicas\nProcessamento Digital de Imagens\nGeoprocessamento\nSensoriamento Remoto\nGeotécnologias aplicadas à Gestão de Recursos Hidricos\nEstatística e Planejamento de Experimentos\nInformações Espaciais\nCiência de Informações Espaciais"
+  },
+  {
+    "objectID": "index.html#artigos-selecionados",
+    "href": "index.html#artigos-selecionados",
+    "title": "Mauro Alixandrini",
+    "section": "Artigos selecionados",
+    "text": "Artigos selecionados"
+  },
+  {
+    "objectID": "index.html#afiliações-profissionais",
+    "href": "index.html#afiliações-profissionais",
+    "title": "Mauro Alixandrini",
+    "section": "Afiliações Profissionais",
+    "text": "Afiliações Profissionais\n\nConselho Regional de Engenharia e Agronomia da Bahia(Registrado desde 2016)\nInstituto de Engenharia do Paraná (Membro desde 2020)\nSociedade Brasileira de Cartografia (Membro desde 2025)"
+  },
+  {
+    "objectID": "index.html#vida-pessoal",
+    "href": "index.html#vida-pessoal",
+    "title": "Mauro Alixandrini",
+    "section": "Vida Pessoal",
+    "text": "Vida Pessoal\nMoro em Salvador na Bahia, cidade que conquistou meu coração, mas sou natural de Curitiba no Paraná que visito com frequencia para reencontrar meus pais e amigos. No meu tempo livre gosto de ler (preferencialmente dramas contexto históricos e clássicos literários), cozinhar e praticar esportes com meu filho e amigos.\n\n\n\nPedal de domingo com os amigos"
+  },
+  {
+    "objectID": "Eventos/index.html",
+    "href": "Eventos/index.html",
+    "title": "Eventos",
+    "section": "",
+    "text": "Seminário de Informações Geoespaciais - SPIE2026\n\n\n\nPython\n\nBásico\n\nCEAC\n\n\n\nO Seminário acontecerá no final do primeiro semestre de 2026 e tem como objetivo apresentar os resultados dos trabalhos desenvolvidos pelos estudantes durante a disciplina…\n\n\n\n\n\n\nJan 3, 2025\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Ensino/ENGJ22/index.html",
+    "href": "Ensino/ENGJ22/index.html",
+    "title": "Ajustamento de Observações Geodésicas",
+    "section": "",
+    "text": "Ao final da disciplina o estudante deve saber interpretar avaliações de Observações Geodésicas bem como diferenciar métodos de avaliação e poder debater sobre estratégias de abordagem de Ajustamento de Observações em experimentos de engenharia.\nCompreender as possibilidades do uso de Ajustamento de Observações Geodésicas dentro do escopo de trabalho. Estimar variáveis descritivas utilizando métodos estatísticos."
+  },
+  {
+    "objectID": "Ensino/ENGJ22/index.html#objetivos",
+    "href": "Ensino/ENGJ22/index.html#objetivos",
+    "title": "Ajustamento de Observações Geodésicas",
+    "section": "",
+    "text": "Ao final da disciplina o estudante deve saber interpretar avaliações de Observações Geodésicas bem como diferenciar métodos de avaliação e poder debater sobre estratégias de abordagem de Ajustamento de Observações em experimentos de engenharia.\nCompreender as possibilidades do uso de Ajustamento de Observações Geodésicas dentro do escopo de trabalho. Estimar variáveis descritivas utilizando métodos estatísticos."
+  },
+  {
+    "objectID": "Ensino/ENGJ22/index.html#ementa",
+    "href": "Ensino/ENGJ22/index.html#ementa",
+    "title": "Ajustamento de Observações Geodésicas",
+    "section": "EMENTA",
+    "text": "EMENTA\nMétodos de ajustamento de observações geodésicas paramétrico, correlato e combinado. Inversa Generalizada. Ajustamento Livre. Pré-análise. Análise de Tendências, Injunções, Colocação, Filtro de Kalman. Analise da Qualidade e medidas de confiabilidade."
+  },
+  {
+    "objectID": "Ensino/ENGJ22/index.html#conteúdo-programático",
+    "href": "Ensino/ENGJ22/index.html#conteúdo-programático",
+    "title": "Ajustamento de Observações Geodésicas",
+    "section": "CONTEÚDO PROGRAMÁTICO",
+    "text": "CONTEÚDO PROGRAMÁTICO\nUtilização de Sistemas Lineares e o MMQ. Condicionamento de Sistemas. Ajustamento de Obs. diretas. Utilização do Método Paramétrico. Utilização do Método dos Correlatos. Aplicação do Método dos Correlatos nas triangulações. Utilização do Método Combinado. Utilização de Métodos Iterativos. Aplicação do Método Combinado com Injunções Análise utilizando Elipse dos Erros. Ajustamento Livre Inversas Generalizadas. Aplicação do Filtro de Kalman. Introdução ao Método de Colocação e Métodos Robustos."
+  },
+  {
+    "objectID": "Ensino/ENGJ22/index.html#referências",
+    "href": "Ensino/ENGJ22/index.html#referências",
+    "title": "Ajustamento de Observações Geodésicas",
+    "section": "REFERÊNCIAS",
+    "text": "REFERÊNCIAS\n\nGEMAEL, Camil. Introdução ao Ajustamento de Observações: Aplicações Geodésicas. Curitiba: Ed. UFPR, 1984. 319p.\nNAVRATIL, Gerhard. Ausgleichungsrechnung: die Anwendung statistischer Methoden in Vermessungswesen und GIS. Institute f¨ur Geoinformation und Kartographie,Wien:2006.\nGHILANI, C. D. and P. R. WOLF (2006). Adjustment Computations - Spatial Data Analysis (4. ed.). Hoboken, New Jersey: John Wiley & Sons.\nGUPTIL, S. C. and J. L. MORRISON (Eds.) (1995). Elements of Spatial Data Quality. Elsevier, Oxford.\nPEROVI´C, G. (2005). Least Squares. University of Belgrade, Faculty of Civil Engineering.\nLEICK, A. (2004). GPS Satellite Surveying. 3rd Edition. John Wiley & Sons, New York."
+  },
+  {
+    "objectID": "correcoes/index.html",
+    "href": "correcoes/index.html",
+    "title": "Política de Correções",
+    "section": "",
+    "text": "Última atualização: 24 de maio de 2026\nTenho o compromisso de garantir a precisão de tudo o que publico neste site. Esta página descreve como lido com erros, correções e atualizações."
+  },
+  {
+    "objectID": "correcoes/index.html#correções",
+    "href": "correcoes/index.html#correções",
+    "title": "Política de Correções",
+    "section": "Correções",
+    "text": "Correções\nSe um erro factual for identificado em uma publicação ou página já publicada, eu o corrigirei e registrarei a alteração. Para erros materiais — aqueles que afetam o significado ou as conclusões de um texto —, uma nota de correção será adicionada à publicação, indicando o que foi alterado e quando.\nCorreções menores (erros de digitação, links quebrados, formatação) são feitas sem a necessidade de um aviso separado."
+  },
+  {
+    "objectID": "correcoes/index.html#atualizações-e-revisões",
+    "href": "correcoes/index.html#atualizações-e-revisões",
+    "title": "Política de Correções",
+    "section": "Atualizações e revisões",
+    "text": "Atualizações e revisões\nAs publicações podem ser atualizadas após a publicação inicial para refletir novas informações, adicionar contexto ou melhorar a clareza. Atualizações substantivas são indicadas por meio da data de última modificação da publicação, quando aplicável."
+  },
+  {
+    "objectID": "correcoes/index.html#opinião-e-análise",
+    "href": "correcoes/index.html#opinião-e-análise",
+    "title": "Política de Correções",
+    "section": "Opinião e análise",
+    "text": "Opinião e análise\nGrande parte do conteúdo deste site representa minha opinião pessoal, análise ou comentário. Meu objetivo é distinguir claramente entre afirmações factuais e opiniões. Meu aviso legal se aplica a todo o conteúdo deste site."
+  },
+  {
+    "objectID": "correcoes/index.html#comunicando-erros",
+    "href": "correcoes/index.html#comunicando-erros",
+    "title": "Política de Correções",
+    "section": "Comunicando erros",
+    "text": "Comunicando erros\nSe você acredita ter encontrado um erro factual em qualquer conteúdo deste site, entre em contato comigo pelo e-mail mauro.alixandrini@ufba.br enviando:\n\nO link para a página que contém o erro\nUma descrição do erro encontrado\nSe possível, uma referência ou fonte com a informação correta\n\nLido com relatórios de erros com seriedade e irei revisá-los e respondê-los prontamente."
+  },
+  {
+    "objectID": "correcoes/index.html#escopo",
+    "href": "correcoes/index.html#escopo",
+    "title": "Política de Correções",
+    "section": "Escopo",
+    "text": "Escopo\nEsta política se aplica a todo o conteúdo publicado em geoinformatica.eng.br. Ela não se aplica ao conteúdo de sites externos para os quais eu possa fornecer links."
+  },
+  {
+    "objectID": "Aviso_Legal/index.html",
+    "href": "Aviso_Legal/index.html",
+    "title": "Aviso Legal",
+    "section": "",
+    "text": "As opiniões expressas neste site são de inteira responsabilidade do autor, em sua capacidade estrita de caráter pessoal. Elas não refletem os pontos de vista de nenhuma organização, empresa ou conselho com o qual ele esteja associado, incluindo qualquer empregador atual ou anterior.\nO conteúdo deste site é fornecido exclusivamente para fins informativos e não constitui aconselhamento profissional. Embora eu faça esforços razoáveis para garantir a precisão das informações, não dou garantias ou declarações de qualquer tipo em relação à integridade, exatidão ou confiabilidade de qualquer informação aqui apresentada.\nO uso de qualquer informação contida neste site é por sua própria conta e risco. Não assumo qualquer responsabilidade por quaisquer perdas ou danos decorrentes da confiança depositada no conteúdo deste site."
+  },
+  {
+    "objectID": "Ensino/ENGJ20/index.html",
+    "href": "Ensino/ENGJ20/index.html",
+    "title": "Programação aplicada à Engenharia de Agrimensura",
+    "section": "",
+    "text": "Sistematizar e organizar o raciocínio na resolução de problemas de forma algorítmica;\nConhecer as principais formas de representação de um algoritmo, independente de uma linguagem de programação em particular;\nIniciar o desenvolvimento de programas corretos, eficientes, estruturados, bem documentados e consistentes (robustos);\nDominar o conceito de funções, funções recursivas, variáveis locais e globais, passagem de parâmetros, ponteiros e passagem de parâmetros por endereço;\nConhecer a sintaxe e a semântica de uma linguagem de programação estruturada – C;\nDesenvolver programas de pequeno e médio porte, usando variáveis simples e estruturadas (arrays multidimensionais, struct e file), associados às diferentes classes de problemas numéricos e não-numéricos, fundamentais no exercício cotidiano da prática de programação;\nTrabalhar com algoritmos básicos associados a problemas de ordenação e de busca, além de alguns problemas geométricos;\nEstar apto a iniciar o aprendizado de estruturas de dados dinâmicas e técnicas de programação mais avançadas."
+  },
+  {
+    "objectID": "Ensino/ENGJ20/index.html#objetivos",
+    "href": "Ensino/ENGJ20/index.html#objetivos",
+    "title": "Programação aplicada à Engenharia de Agrimensura",
+    "section": "",
+    "text": "Sistematizar e organizar o raciocínio na resolução de problemas de forma algorítmica;\nConhecer as principais formas de representação de um algoritmo, independente de uma linguagem de programação em particular;\nIniciar o desenvolvimento de programas corretos, eficientes, estruturados, bem documentados e consistentes (robustos);\nDominar o conceito de funções, funções recursivas, variáveis locais e globais, passagem de parâmetros, ponteiros e passagem de parâmetros por endereço;\nConhecer a sintaxe e a semântica de uma linguagem de programação estruturada – C;\nDesenvolver programas de pequeno e médio porte, usando variáveis simples e estruturadas (arrays multidimensionais, struct e file), associados às diferentes classes de problemas numéricos e não-numéricos, fundamentais no exercício cotidiano da prática de programação;\nTrabalhar com algoritmos básicos associados a problemas de ordenação e de busca, além de alguns problemas geométricos;\nEstar apto a iniciar o aprendizado de estruturas de dados dinâmicas e técnicas de programação mais avançadas."
+  },
+  {
+    "objectID": "Ensino/ENGJ20/index.html#ementa",
+    "href": "Ensino/ENGJ20/index.html#ementa",
+    "title": "Programação aplicada à Engenharia de Agrimensura",
+    "section": "EMENTA",
+    "text": "EMENTA\nConceitos básicos de computadores. Linguagem de programação. Aplicação de computadores digitais. Técnica e programação estruturada. Linguagem de programação. Conceito de sub-programação. Tópicos em sistemas operacionais. Simulação e otimização. Operações com vetores, matrizes, funções trigonométricas. Manuseio de imagens. Noções de CAD e georreferenciamento."
+  },
+  {
+    "objectID": "Ensino/ENGJ20/index.html#conteúdo-programático",
+    "href": "Ensino/ENGJ20/index.html#conteúdo-programático",
+    "title": "Programação aplicada à Engenharia de Agrimensura",
+    "section": "CONTEÚDO PROGRAMÁTICO",
+    "text": "CONTEÚDO PROGRAMÁTICO\nEstrutura Computacional: hardware e software. Linguagem de Programação de Alto Nível: aspectos históricos, conceitos e características básicas; compiladores existentes em diferentes plataformas; estrutura geral de um programa (linguagem adotada); operadores (atribuição, booleanos, aritméticos, relacionais, outros); precedência entre operadores; expressões aritméticas e booleanas; variáveis simples (identificadores e tipos de dados primitivos; resolução de problemas); comandos de entrada e saída; estruturas de controle de fluxo de execução de programas (comandos de atribuição, seleção e repetição); estruturas de dados homogêneas (arranjos multidimensionais; declaração, inicialização e representação interna; acesso a elementos de forma indexada; geração de números pseudo-aleatórios; resolução de problemas envolvendo arranjos multidimensionais; estudos de casos unidimensionais – problemas de ordenação e de busca; manipulação matricial); estruturas de dados heterogêneas (estruturas – declaração, inicialização e representação interna, acesso a componentes; estruturas aninhadas; arranjos de estruturas; uniões e tipos enumeráveis; arquivos – relevância; conceitos básicos, arquivos do tipo texto e binário; funções de manipulação de arquivos; manipulação de arquivos texto e de arquivos binários); modularidade (filosofia, conceitos básicos, passagem de parâmetros e valores de retorno, variáveis locais e globais); recursividade (princípio de indução finita; definição e exemplos; elaboração de funções recursivas simples; estrutura de pilha subjacente às chamadas recursivas; vantagens e desvantagens do uso da recursão)."
+  },
+  {
+    "objectID": "Ensino/ENGJ20/index.html#referências",
+    "href": "Ensino/ENGJ20/index.html#referências",
+    "title": "Programação aplicada à Engenharia de Agrimensura",
+    "section": "REFERÊNCIAS",
+    "text": "REFERÊNCIAS\n\nASCENCIO, A. F. G.; CAMPOS, E. A. V. C. Fundamentos da programação de computadores: algoritmos, pascal e C/C++. Pearson Prentice Hall, 2003. 355p.\nKERNINGHAN, B. W.; Pike, R. A Prática de Programação. Rio de Janeiro: Editora Campus, 2000. 280p.\nHOLLOWAY, J. P. Introdução a Programação para Engenharia: resolvendo problemas com algoritmos. LTC Editora, 2006. 339p.\nLOPES, A.; GARCIA, G. Introdução à Programação: 500 exercícios resolvidos. Rio de Janeiro: Editora Campus, 2002. 469p.\nMEDINA, M.; FERTIG, C. Algoritmos e programação: teoria e prática. São Paulo: Novatec Editora, 2005. 384p.\nOLIVEIRA, U. Programando em C, vol. I – fundamentos. Editora Ciência Moderna, 2008. 743p."
+  },
+  {
+    "objectID": "Ensino/ENGJ20/index.html#bibliografia-complementar",
+    "href": "Ensino/ENGJ20/index.html#bibliografia-complementar",
+    "title": "Programação aplicada à Engenharia de Agrimensura",
+    "section": "BIBLIOGRAFIA COMPLEMENTAR",
+    "text": "BIBLIOGRAFIA COMPLEMENTAR\n\nMANZANO, Jose Augusto N. G.; OLIVEIRA, Jayr Figueredo de. Algoritmos: lógica para o desenvolvimento de programação. 13. ed. São Paulo: Érica, 2002.\nNORTON, Peter. Introdução à informática. São Paulo: Makron Books do Brasil, 1997.\nFORBELLONE, A.L.V.; EBERSPÄCHER, H.F. Lógica de programação: a construção de algoritmos e estruturas de dados. São Paulo: Makron Books, 1993."
+  },
+  {
+    "objectID": "Ensino/index.html",
+    "href": "Ensino/index.html",
+    "title": "Ensino",
+    "section": "",
+    "text": "Programação aplicada à Engenharia de Agrimensura\n\n\n\nPython\n\nBásico\n\nCEAC\n\n\n\nA disciplina ofertada para alunos de Engenharia Cartográfica e de Agrimensura no semestre letivo de 2025.1.\n\n\n\n\n\n\nJan 3, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nAjustamento de Observações Geodésicas\n\n\n\nPython\n\nBásico\n\nCEAC\n\n\n\nA disciplina ofertada para alunos de Engenharia Cartográfica e de Agrimensura no semestre letivo de 2025.2.\n\n\n\n\n\n\nJan 3, 2025\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Eventos/SPIE/index.html",
+    "href": "Eventos/SPIE/index.html",
+    "title": "Seminário de Informações Geoespaciais - SPIE2026",
+    "section": "",
+    "text": "Sobre o SPIE2026\nEvento ligado à disciplina de Pósgraduação de Ciência da Informação Geoespacial, que vai contar com a participação de pesquisadores convidados e apresentação dos trabalhos desenvolvidos pelos estudantes durante a disciplina. O seminário é aberto ao público e tem como objetivo promover a discussão sobre temas relacionados à ciência de dados espaciais, geoinformação e suas aplicações.\nPara mais informações sobre o evento, acesse o Instagram do SPIE2026."
+  },
+  {
+    "objectID": "Orientacoes/Eliza/index.html",
+    "href": "Orientacoes/Eliza/index.html",
+    "title": "Eliza Silva Maia",
+    "section": "",
+    "text": "Eliza vem desenvolvendo um trabalho de mestrado no PPEC/UFBA sob minha orientação, e coorientação do Prof. Fabiano com o título “Desenvolvimento de Rotinas Automatizadas para Controle de Qualidade Visual de Fotografias Aéreas”. O controle de qualidade é um aspecto crucial da fotogrametria e do LiDAR (Light Detection and Ranging), garantindo a precisão e confiabilidade dos dados coletados. Na fotogrametria, os métodos tradicionais de controle de qualidade envolvem a identificação e correção de erros em pontos de controle do solo (Ground Control Points - GCPs) e imagens aéreas. No entanto, esses métodos podem ser demorados e trabalhosos, especialmente para projetos de grande porte. Com o advento da fotogrametria digital e do LiDAR, surgiram técnicas mais automatizadas para o controle de qualidade como a correspondência de imagens e a detecção de mudanças. Estas técnicas podem ajudar a melhorar a eficiência e precisão do controle de qualidade, mas ainda estão em desenvolvimento e podem ser sensíveis a condições de imagem e terreno. Existem muitos parâmetros para serem avaliados na fiscalização de fotografias aéreas. Alguns deles exigem uma análise que até o momento é feita, na maioria das vezes, de forma manual e visual, a exemplo da detecção de sombras, nuvens, fumaças, brumas, arrasto, saturação/brilho fora do normal, ruídos na imagem, desequilíbrio de cores, pixels zerados ou sobrepostos, dentre outros. Porém, para fazer essa fiscalização é necessária uma equipe com muitos profissionais capacitados, por conta do volume do material, o que não é a realidade de grande parte dos órgãos públicos. Assim sendo, seria de grande utilidade que esses parâmetros pudessem ser verificados de forma automatizada, o que poderia reduzir o tempo e o esforço humano no controle de qualidade, além de aumentar a consistência e precisão das análises.\n\nDesenvolvimento de Rotinas Automatizadas para Controle de Qualidade Visual de Fotografias Aéreas\nOrientação: Prof. Mauro Alixandrini Co-orientação: Prof. Fabiano Freiman Programa de Pós-Graduação em Engenharia de Computação (PPEC/UFBA)"
+  },
+  {
+    "objectID": "Orientacoes/index.html",
+    "href": "Orientacoes/index.html",
+    "title": "Orientações",
+    "section": "",
+    "text": "Eliza Silva Maia\n\n\n\nMestrado\n\nPPEC\n\n2025.1\n\n\n\nOrientação de mestrado da aluna Eliza Silva Maia, com o título “Desenvolvimento de Rotinas Automatizadas para Controle de Qualidade Visual de Fotografias Aéreas”. O objetivo…\n\n\n\n\n\n\nJan 3, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nEliza Silva Maia\n\n\n\nMestrado\n\nPPEC\n\n2025.1\n\n\n\nOrientação de mestrado da aluna Eliza Silva Maia, com o título “Desenvolvimento de Rotinas Automatizadas para Controle de Qualidade Visual de Fotografias Aéreas”. O objetivo…\n\n\n\n\n\n\nJan 3, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nTaís Sousa Andrade\n\n\n\nMestrado\n\nPPEC\n\n2024.1\n\n\n\nOrientação de mestrado da aluna Taís Sousa Andrade, com o título “Reconhecimento de Coordenadas Espaciais em Textos de Linguagem Natural utilizando BERTimbau”. O estudo tem…\n\n\n\n\n\n\nJan 3, 2025\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "politica_privacidade/index.html",
+    "href": "politica_privacidade/index.html",
+    "title": "Política de Privacidade",
+    "section": "",
+    "text": "Última atualização: 25 de maio de 2026\nEsta política de privacidade explica quais dados são coletados quando você visita geoinformatica.eng.br e como eles são utilizados."
+  },
+  {
+    "objectID": "politica_privacidade/index.html#hospedagem",
+    "href": "politica_privacidade/index.html#hospedagem",
+    "title": "Política de Privacidade",
+    "section": "Hospedagem",
+    "text": "Hospedagem\nEste site é hospedado num servidor privado da Hostinger. A Hostinger pode coletar informações técnicas, como seu endereço IP, tipo de navegador e página de origem, como parte de suas operações padrão de servidor. Consulte a declaração de privacidade da Hostinger para obter mais detalhes."
+  },
+  {
+    "objectID": "politica_privacidade/index.html#análise-de-dados-analytics",
+    "href": "politica_privacidade/index.html#análise-de-dados-analytics",
+    "title": "Política de Privacidade",
+    "section": "Análise de Dados (Analytics)",
+    "text": "Análise de Dados (Analytics)\nEste site utiliza o Google Analytics para entender como os visitantes interagem com o conteúdo. O Google Analytics coleta:\n\nPáginas visitadas e tempo gasto em cada uma delas\nSite de origem ou mecanismo de busca utilizado\nLocalização geográfica geral (nível de país/região)\nTipo de navegador e categoria do dispositivo\n\nO Google Analytics utiliza cookies para distinguir visitantes únicos. Nenhuma informação de identificação pessoal (PII) é coletada por meio dessas análises. Você pode desativar o Google Analytics instalando o Complemento do navegador para desativação do Google Analytics."
+  },
+  {
+    "objectID": "politica_privacidade/index.html#cookies",
+    "href": "politica_privacidade/index.html#cookies",
+    "title": "Política de Privacidade",
+    "section": "Cookies",
+    "text": "Cookies\nEste site não define nenhum cookie primário (first-party). Os únicos cookies utilizados são aqueles definidos pelo Google Analytics (com o prefixo _ga), que servem para distinguir visitantes únicos e controlar a taxa de solicitações."
+  },
+  {
+    "objectID": "politica_privacidade/index.html#dados-que-eu-não-coleto",
+    "href": "politica_privacidade/index.html#dados-que-eu-não-coleto",
+    "title": "Política de Privacidade",
+    "section": "Dados que eu NÃO coleto",
+    "text": "Dados que eu NÃO coleto\nEste site não realiza as seguintes ações:\n\nColeta de informações de identificação pessoal (PII)\nCriação de contas de usuário, formulários de login ou registro\nUso de formulários de contato ou coleta de endereços de e-mail através do site\nVenda, compartilhamento ou transferência de quaisquer dados de visitantes para terceiros\nUso de serviços de publicidade ou remarketing"
+  },
+  {
+    "objectID": "politica_privacidade/index.html#links-de-terceiros",
+    "href": "politica_privacidade/index.html#links-de-terceiros",
+    "title": "Política de Privacidade",
+    "section": "Links de terceiros",
+    "text": "Links de terceiros\nEste site contém links para sites externos. Não sou responsável pelas práticas de privacidade ou pelo conteúdo desses sites. Recomendo que você revise as políticas de privacidade de qualquer site externo que venha a visitar."
+  },
+  {
+    "objectID": "politica_privacidade/index.html#visitantes-internacionais",
+    "href": "politica_privacidade/index.html#visitantes-internacionais",
+    "title": "Política de Privacidade",
+    "section": "Visitantes internacionais",
+    "text": "Visitantes internacionais\nEste site é operado a partir do Brasil. Se você estiver visitando do Espaço Econômico Americano ou Europeu ou de outras regiões com leis de proteção de dados, esteja ciente de que suas informações podem ser transferidas e processadas no Brasil. Ao utilizar este site, você reconhece essa transferência. Eu não coleto ou processo intencionalmente dados pessoais que estariam sujeitos a LGPD, uma vez que nenhuma informação de identificação pessoal é coletada."
+  },
+  {
+    "objectID": "politica_privacidade/index.html#contato",
+    "href": "politica_privacidade/index.html#contato",
+    "title": "Política de Privacidade",
+    "section": "Contato",
+    "text": "Contato\nSe você tiver dúvidas sobre esta política de privacidade, entre em contato comigo pelo e-mail mauro.alixandrini@ufba.br."
+  },
+  {
+    "objectID": "politica_privacidade/index.html#alterações-a-esta-política",
+    "href": "politica_privacidade/index.html#alterações-a-esta-política",
+    "title": "Política de Privacidade",
+    "section": "Alterações a esta política",
+    "text": "Alterações a esta política\nPosso atualizar esta política de privacidade periodicamente. As alterações serão refletidas pela data de “última atualização” no topo desta página."
+  },
+  {
+    "objectID": "Projetos/index.html",
+    "href": "Projetos/index.html",
+    "title": "Projetos",
+    "section": "",
+    "text": "Escaneamento EP\n\n\n\nExtensão\n\nEnsino\n\n\n\nNuvem Lidar obtida na EP.\n\n\n\n\n\n\nDec 3, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\nEscaneamento LCAD\n\n\n\nExtensão\n\nEnsino\n\n\n\nNuvem Lidar obtida no LCAD.\n\n\n\n\n\n\nDec 3, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\nCooperação Técnica com a Prefeitura de Salvador\n\n\n\nPMS\n\nDesenvolvimento\n\nExtensão\n\nEnsino\n\n\n\nProjeto financiado pela prefeitura de Salvador para parceria no desenvolvimento de soluções tecnológicas com mapeamento e apoio técnico para uso e contratação de serviços de…\n\n\n\n\n\n\nDec 3, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\nMapa 3D UFBA\n\n\n\nExtensão\n\nEnsino\n\n\n\nMapa 3D UFBA.\n\n\n\n\n\n\nDec 3, 2023\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Projetos/PMS/index.html",
+    "href": "Projetos/PMS/index.html",
+    "title": "Cooperação Técnica com a Prefeitura de Salvador",
+    "section": "",
+    "text": "Desenvolver soluções tecnológicas com mapeamento e apoio técnico para uso e contratação de serviços de mapeamento aerofotogramétrico e Mapeamento Móvel Terrestre."
+  },
+  {
+    "objectID": "Projetos/PMS/index.html#objetivos",
+    "href": "Projetos/PMS/index.html#objetivos",
+    "title": "Cooperação Técnica com a Prefeitura de Salvador",
+    "section": "",
+    "text": "Desenvolver soluções tecnológicas com mapeamento e apoio técnico para uso e contratação de serviços de mapeamento aerofotogramétrico e Mapeamento Móvel Terrestre."
+  },
+  {
+    "objectID": "Projetos/PMS/index.html#contexto",
+    "href": "Projetos/PMS/index.html#contexto",
+    "title": "Cooperação Técnica com a Prefeitura de Salvador",
+    "section": "Contexto",
+    "text": "Contexto\nDentro de um plano para atualização das bases cartográficas do município de Salvador foram contratados os serviços de mapeamento e adensamento da rede básica cadastral municipal através de concorrência pública. Os produtos têm caraterísticas muito distintas dos mapeamentos anteriores por se tratar de dados derivados de Fotogrametria Digital associado à dados LiDAR em um padrão de dados espaciais moderno. Além disso o edital prevê aplicação de novas técnicas de controle de qualidade de mapeamento. Hoje a PMS não conta com profissionais com formação de Engenharia Cartográfica para dar suporte a fiscalização deste projeto."
+  },
+  {
+    "objectID": "Publicacoes/index.html",
+    "href": "Publicacoes/index.html",
+    "title": "Papers",
+    "section": "",
+    "text": "OLIVEIRA, E. B. ; FERNANDES, V. O. ; ALIXANDRINI JR, Mauro José . Deep Learning: an Integrative Systematic Review of Its Applications in Mapping Using UAV Imagery. RBC. REVISTA BRASILEIRA DE CARTOGRAFIA (ONLINE), v. 77, p. 1-18, 2025."
+  },
+  {
+    "objectID": "Publicacoes/index.html#section",
+    "href": "Publicacoes/index.html#section",
+    "title": "Papers",
+    "section": "",
+    "text": "OLIVEIRA, E. B. ; FERNANDES, V. O. ; ALIXANDRINI JR, Mauro José . Deep Learning: an Integrative Systematic Review of Its Applications in Mapping Using UAV Imagery. RBC. REVISTA BRASILEIRA DE CARTOGRAFIA (ONLINE), v. 77, p. 1-18, 2025."
+  },
+  {
+    "objectID": "Publicacoes/index.html#section-1",
+    "href": "Publicacoes/index.html#section-1",
+    "title": "Papers",
+    "section": "2023",
+    "text": "2023\n\nFAGUNDES, W. S. ; ALIXANDRINI JR.,M. J. . Evolução Das Técnicas De Classificação De Imagens Do Sensoriamento Remoto Utilizadas Na Produção Científica Brasileira. GEOCIÊNCIAS (SÃO PAULO. ONLINE), v. 41, p. 593-604, 2023. Citações:1\nOLIVEIRA, D. F. ; FERNANDES, V. O. ; ELIAS, E. N. N. ; MARTINS, V. E. ; ALIXANDRINI JR.,M. J. . Avaliação Intrínseca Dos Dados Do OpenStreetMap E Os Aspectos Espaço- Temporais No Estudo De Caso Do Rompimento Da Barragem De Brumadinho. GEOCIÊNCIAS (SÃO PAULO. ONLINE), v. 41, p. 797-810, 2023.\nGARCIA, F. R. ; ALIXANDRINI JR.,M. J. . DETERMINAÇÃO DA EQUAÇÃO REGIONALIZADA DE CHUVAS INTENSAS PARA A BACIA HIDROGRÁFICA DO COBRE EM SALVADOR-BA. Revista Gestão e Sustentabilidade Ambiental, v. 12, p. e9332, 2023."
+  },
+  {
+    "objectID": "Publicacoes/index.html#section-2",
+    "href": "Publicacoes/index.html#section-2",
+    "title": "Papers",
+    "section": "2022",
+    "text": "2022\n\nGARCIA, F. R. ; ALIXANDRINI, M. . Comparação de MDTs a partir do acoplamento de modelo hidrológico e hidrodinâmico aplicado à identificação de áreas de inundações urbanas. REVISTA BRASILEIRA DE GEOGRAFIA FÍSICA, v. 15, p. 783-803, 2022. Citações:5\nSANTOS JUNIOR, R. L. ; JESUS, E. G. ; FERNANDES, V. O. ; ALIXANDRINI JR.,M. J. . METODOLOGIA PARA IMPLANTAÇÃO DE ESTACIONAMENTOS PERIFÉRICOS INTEGRADOS AO SISTEMA DE METRÔ BASEADA EM ANÁLISE ESPACIAL: ESTUDO DE CASO DE UMA METRÓPOLE NO NORDESTE BRASILEIRO. Caminhos de Geografia), v. 23, p. 1-19, 2022."
+  },
+  {
+    "objectID": "Publicacoes/index.html#section-3",
+    "href": "Publicacoes/index.html#section-3",
+    "title": "Papers",
+    "section": "2021",
+    "text": "2021\n\nLIMOEIRO, M. A. ; ALIXANDRINI JUNIOR, MAURO JOSÉ . HIERARQUIZAÇÃO DA FAVORABILIDADE À RECOMPOSIÇÃO FLORESTAL COM USO DE GEOSPATIAL BIG DATA PARA REGIÕES DEGRADADAS DEVIDO A EXPLORAÇÃO ONSHORE DE PETRÓLEO E GÁS. GEOCIÊNCIAS (SÃO PAULO. ONLINE), v. 40, p. 477-488, 2021.\nOLIVEIRA, ULDÉRICO RIOS ; BRITO, PATRÍCIA LUSTOSA ; JÚNIOR, MAURO JOSÉ ALIXANDRINI ; PEDRASSOLI, JÚLIO CÉSAR . Detecção de mudanças a partir de imagens Landsat na Esec Raso da Catarina / Detection of changes from Landsat images in Esec Catarina Raso. Brazilian Journal of Development, v. 7, p. 121470-121483, 2021.\nANDRADE, A. C. ; ALIXANDRINI JR, Mauro José ; CARVALHO, F. P. S. ; FERNANDES, V. O. . PERFORMANCE OF THE SUPPORT VECTOR MACHINE AND ARTIFICIAL NEURAL NETWORK CLASSIFIERS FOR ROADS IDENTIFICATION. The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, v. XLIII-B3-2021, p. 9-14, 2021. Citações:2"
+  },
+  {
+    "objectID": "Publicacoes/index.html#section-4",
+    "href": "Publicacoes/index.html#section-4",
+    "title": "Papers",
+    "section": "2020",
+    "text": "2020\n\nCUNHA, ALEXANDRE AQUINO DA ; ALIXANDRINI JR, Mauro José ; FERNANDES, VIVIAN DE OLIVEIRA . Avaliação de Erosão por Imagens de Aeronave Remotamente Pilotada a Baixa Altura de Voo. GEOGRAFIA (LONDRINA), v. 29, p. 191, 2020.\nARAÚJO, N. S. ; DELAZARI, L. S. ; FERNANDES, V. O. ; JÚNIOR, M. A. . A BIBLIOMETRIC STUDY OF GRAPHIC VARIABLES USED ON TACTILE MAPS. ISPRS - International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, v. XLIII-B4-2020, p. 25-32, 2020. Citações:4\nELIAS, ELIAS NASR NAIM ; FERNANDES, VIVIAN DE OLIVEIRA ; ALIXANDRINI JUNIOR, MAURO JOSÉ ; SCHMIDT, MARCIO AUGUSTO REOLON . The quality of OpenStreetMap in a large metropolis in northeast Brazil: Preliminary assessment of geospatial data for road axes. Boletim de Ciências Geodésicas, v. 26, p. 1, 2020. Citações:4|3"
+  },
+  {
+    "objectID": "Publicacoes/index.html#section-5",
+    "href": "Publicacoes/index.html#section-5",
+    "title": "Papers",
+    "section": "2019",
+    "text": "2019\n\nSODRÉ DE ARAÚJO, NIÉDJA ; ALIXANDRINI JÚNIOR, MAURO JOSÉ ; OLIVEIRA FERNANDES, VIVIAN DE . Interpretação de pessoas cegas sobre símbolos 3D em Mapa Tátil de Ambiente Indoor. Revista Cartográfica, v. 1, p. 95-105, 2019."
+  },
+  {
+    "objectID": "Publicacoes/index.html#section-6",
+    "href": "Publicacoes/index.html#section-6",
+    "title": "Papers",
+    "section": "2016",
+    "text": "2016\n\nFERNANDES, V. O. ; ALIXANDRINI, M. ; ELIAS, E. N. N. . Determinação de número de amostras para controle de qualidade posicional em mapas urbanos. Bahia Analise & Dados, v. v. 1, p. 821, 2016.\nFERNANDES, V. O. ; ALIXANDRINI, M. ; Fosse, J. M. ; Lima Filho,D. ; SILVA, M. . PRODUÇÃO DE SÍMBOLOS TÁTEIS CONSTRUÍDOS COM IMPRESSORA 3D PARA MAPAS DE ORIENTAÇÃO AO VISITANTE. RBC. REVISTA BRASILEIRA DE CARTOGRAFIA (ONLINE), v. 68, p. 1-20, 2016.\nALIXANDRINI JUNIOR, MAURO JOSÉ; VALADARES, JOSMAR OLIVEIRA ; LOCH, Carlos . CANOPY HEIGHT MODELS TO MONITOR AREAS UNDER DEGRADATION IN MIXED OMBROPHILE. Revista Árvore (Online), v. 40, p. 959-964, 2016."
+  },
+  {
+    "objectID": "Publicacoes/index.html#section-7",
+    "href": "Publicacoes/index.html#section-7",
+    "title": "Papers",
+    "section": "2015",
+    "text": "2015\n\nSACRAMENTO, I. C. C. ; FERNANDES, V. O. ; ALIXANDRINI, M. ; Brito, P. L. . ANÁLISE SOCIOAMBIENTAL A PARTIR DOS ZONEAMENTOS ECOLÓGICO ECONÔMICO DA ÁREA DE PROTEÇÃO AMBIENTAL DAS LAGOAS E DUNAS DO ABAETÉ. Geo UERJ (2007), v. 1, p. 120-143, 2015.\nS, Camila ; FERNANDES, V. O. ; ALIXANDRINI JR.,M. J. . Aplicação de crowdsourcing na gestão e no planejamento de transportes: conceitos, potencialidades e parcerias do Waze. REVISTA BRASILEIRA DE GEOMÁTICA, v. 3, p. 077-089, 2015."
+  },
+  {
+    "objectID": "Publicacoes/index.html#section-8",
+    "href": "Publicacoes/index.html#section-8",
+    "title": "Papers",
+    "section": "2014",
+    "text": "2014\n\nOLIVEIRA, A. M. ; FERNANDES, V. O. ; ALIXANDRINI, M. ; Brito, P. L. . Análise da expansão urbana no entorno da Lagoa Gran de e Lagoa da Tabua no município de Feira de Santana-BA a partir de série histórica de imagens Landsat MSS, TM e ETM. REVISTA BRASILEIRA DE GEOMÁTICA, v. 2, p. 59-68, 2014.\nFERNANDES, V. O. ; CUNHA, A. A. ; ALIXANDRINI, M. ; CARDOSO, L. M. G. . Efeitos da Urbanização Sobre os Padrões de Ventos. Politécnica (Instituto Politécnico da Bahia), v. 19, p. 19-23, 2014."
+  },
+  {
+    "objectID": "Publicacoes/index.html#section-9",
+    "href": "Publicacoes/index.html#section-9",
+    "title": "Papers",
+    "section": "2012",
+    "text": "2012\n\nJESUS, E. G. ; FERNANDES, V. O. ; ALIXANDRINI, M. ; Brito, P. L. . Aplicação da teoria de Gestalt na construção e análise de mapas turísticos. Caminhos de Geografia), v. 13, p. 43-59, 2012."
+  },
+  {
+    "objectID": "Publicacoes/index.html#section-10",
+    "href": "Publicacoes/index.html#section-10",
+    "title": "Papers",
+    "section": "2011",
+    "text": "2011\n\nFERNANDES, V. O. ; ALIXANDRINI, M. ; Brandão, A. C. . A IMPLANTAÇÃO DO CURSO DE ENGENHARIA DE AGRIMENSURA E CARTOGRÁFICA NA ESCOLA POLITÉCNICA DA UFBA. Politécnica (Instituto Politécnico da Bahia), v. 8, p. 5-13, 2010."
+  },
+  {
+    "objectID": "Publicacoes/index.html#section-11",
+    "href": "Publicacoes/index.html#section-11",
+    "title": "Papers",
+    "section": "2010",
+    "text": "2010\n\nJubanski, J ; ALIXANDRINI, M. ; Bahr, H. P. . CÂMERAS AEROFOTOGRAMÉTRICAS DIGITAIS: NOVOS CONCEITOS E NORMAS. RBC. Revista Brasileira de Cartografia (Online), v. 61, p. 51-62, 2009."
+  }
+]
