@@ -9,8 +9,78 @@
 <link>https://geoinformatica.eng.br/Ensino/</link>
 <atom:link href="https://geoinformatica.eng.br/Ensino/index.xml" rel="self" type="application/rss+xml"/>
 <description>Mauro Alixandrini is a geoinformatics researcher and educator specialising in spatial data analysis, remote sensing, and geographic information systems. Author of Geoinformática: Uma Abordagem Prática para Engenheiros e Desenvolvedores (Editora Campus).</description>
-<generator>quarto-1.9.37</generator>
-<lastBuildDate>Fri, 03 Jan 2025 03:00:00 GMT</lastBuildDate>
+<generator>quarto-1.9.38</generator>
+<lastBuildDate>Sat, 15 Aug 2026 03:00:00 GMT</lastBuildDate>
+<item>
+  <title>Sensoriamento Remoto</title>
+  <link>https://geoinformatica.eng.br/Ensino/PPEC083/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><a href="https://alixandrini.github.io/PPEC083/"><img src="https://geoinformatica.eng.br/Ensino/PPEC083/PPEC083.jpg" class="img-fluid"></a></p>
+<section id="objetivos" class="level2">
+<h2 class="anchored" data-anchor-id="objetivos">OBJETIVOS</h2>
+<p>Nessa edição a disciplina abordará Tarefas Principais de IA em Sensoriamento Remoto, Modelos Fundacionais e Embeddings de Satélite, Integração com QGIS e Projetos Prático.</p>
+</section>
+<section id="conteúdo-programático" class="level2">
+<h2 class="anchored" data-anchor-id="conteúdo-programático">CONTEÚDO PROGRAMÁTICO</h2>
+<ol type="1">
+<li><strong>Fundamentos e Configuração do Ambiente GeoAI:</strong> Python, VS Code / Positron, Conda/Mamba e Manipulação de Rasters/Vetores.</li>
+<li><strong>Aquisição e Preparação de Dados:</strong> STAC Catalogs, APIs abertas, Cloud-Optimized GeoTIFFs (COG) e criação de <em>chips</em> de treinamento.</li>
+<li><strong>Tarefas Principais de IA:</strong> Classificação de Uso e Cobertura (Pixel vs.&nbsp;Objeto), Detecção de Alvos e Segmentação Semântica (U-Net).</li>
+<li><strong>Modelos Fundacionais e Embeddings de Satélite:</strong> Segment Anything Model (SAM), LangSAM (prompts por texto) e Foundation Models.</li>
+<li><strong>Integração com QGIS e Projetos Práticos:</strong> Plugins em QGIS (<code>segment-geospatial</code>) e desenvolvimento do Projeto Integrador.</li>
+</ol>
+
+
+</section>
+
+ ]]></description>
+  <category>Python</category>
+  <category>ML</category>
+  <category>PPEC</category>
+  <category>GeoAI</category>
+  <guid>https://geoinformatica.eng.br/Ensino/PPEC083/</guid>
+  <pubDate>Sat, 15 Aug 2026 03:00:00 GMT</pubDate>
+  <media:content url="https://geoinformatica.eng.br/Ensino/PPEC083/PPEC083.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Geotécnologais Aplicada aos Recursos Hidricos</title>
+  <link>https://geoinformatica.eng.br/Ensino/ENGN80/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><a href="https://alixandrini.github.io/ENGN80/"><img src="https://geoinformatica.eng.br/Ensino/ENGN80/ENGN80.jpg" class="img-fluid"></a></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://alixandrini.github.io/ENGN80/"><img src="https://media.licdn.com/dms/image/v2/D5612AQG45tbKa7Htkg/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1702883458156?e=2147483647&amp;v=beta&amp;t=iIBllVDUczrw6voE7dcw87YaXgNCNbO7IXLsv24ENlo.png" class="img-fluid figure-img"></a></p>
+<figcaption>Repositório do Github</figcaption>
+</figure>
+</div>
+<section id="ementa" class="level2">
+<h2 class="anchored" data-anchor-id="ementa">EMENTA</h2>
+<p>Conceitos e técnicas de geotecnologias visando seu uso como ferramenta de apoio à tomada de decisões para fins de gerenciamento hidroambiental. Conceitos de Cartografia Básica e Sistemas de Informação Geográfica, Formato de Dados Espaciais, Entrada de Dados. Funções dos SIGs. Mapeamento e análise ambiental. Sensoriamento remoto: princípios, tipos de sensores e aplicações Plataforma de coleta de dados: categorias e aplicações na hidrologia, hidrometeorológia e hidrogeologia. Aplicação de modelos hidrológicos, hidrometeorológicos e hidrogeológicos aos Sistemas de Informação dos Recursos Hídricos. Métodos computacionais em Recursos Hídricos. Determinação de parâmetros morfométricos e de relevo de uma bacia hidrográfica. Estudo da rede de drenagem.</p>
+</section>
+<section id="conteúdo-programático" class="level2">
+<h2 class="anchored" data-anchor-id="conteúdo-programático">CONTEÚDO PROGRAMÁTICO</h2>
+<p>o Introdução às Geotecnologias na Gestão de Recursos Hídricos e Saneamento. o Sistemas de Informação Geográfica (SIG) e Geoprocessamento. o Cartografia Básica: Sistemas de Referência de Coordenadas (Datum, Projeções UTM e Geográficas). o Estruturas de Dados Espaciais: Vetorial (Pontos, Linhas, Polígonos) vs.&nbsp;Matricial (Raster). o Apresentação da Interface do QGIS e configuração do ambiente de trabalho. o Modelos Digitais de Elevação (MDE / DEM): SRTM, ALOS PALSAR, FABDEM, COPEMICUS. o Pré-processamento do MDE: Correção de pias (Sink Fill / Depression Filling). o Análise hidrológica de MDE: Direção de Fluxo (Flow Direction), Acúmulo de Fluxo (Flow Accumulation). o Delimitação automática de bacias e sub-bacias hidrográficas e extração da rede de drenagem sintética. o Princípios físicos do Sensoriamento Remoto (Espectro Eletromagnético e Comportamento Espectral da Água, Vegetação e Solo). o Satélites e Sensores Ópticos e de Radar (Landsat, Sentinel-2, Sentinel-1, CBERS). o Índices Espectrais para recursos hídricos: NDWI (Normalized Difference Water Index), NDVI (Normalized Difference Vegetation Index). o Introdução ao Processamento Digital de Imagens (PDI): Classificação Supervisionada e Não-Supervisionada de Uso e Ocupação do Solo. o Ferramentas analíticas e operações de proximidade (Buffer, Overlay, Interseção, Junção Espacial). o Interpolação Espacial (IDW, Krigagem): Aplicação para mapeamento de precipitação/qualidade da água a partir de pontos de amostragem. o Aplicações do SIG no Saneamento Básico: Mapeamento de redes de água e esgoto, universalização dos serviços, gestão de perdas e localização de áreas para instalação de infraestruturas (ETEs, aterros sanitários). o Integração de Geoprocessamento com Sistemas de Apoio à Decisão (SAD) e Regulação. o Elaboração de mapas temáticos profissionais e Layout de Impressão no QGIS. o Introdução ao WebGIS, dashboards espaciais e publicação de dados (QGIS Cloud, Felt ou exportação para GeoJSON/KML para tomada de decisão).</p>
+
+
+</section>
+
+ ]]></description>
+  <category>Python</category>
+  <category>Profágua</category>
+  <category>Pós-graduação</category>
+  <category>QGIS</category>
+  <guid>https://geoinformatica.eng.br/Ensino/ENGN80/</guid>
+  <pubDate>Wed, 15 Jul 2026 03:00:00 GMT</pubDate>
+  <media:content url="https://geoinformatica.eng.br/Ensino/ENGN80/ENGN80.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Programação aplicada à Engenharia de Agrimensura</title>
   <link>https://geoinformatica.eng.br/Ensino/ENGJ20/</link>
@@ -19,6 +89,7 @@
 
 
 
+<p><a href="https://alixandrini.github.io/ENGJ20/"><img src="https://geoinformatica.eng.br/Ensino/ENGJ20/ENGJ20.jpg" class="img-fluid"></a></p>
 <section id="objetivos" class="level2">
 <h2 class="anchored" data-anchor-id="objetivos">OBJETIVOS</h2>
 <ol type="1">
@@ -68,7 +139,7 @@
   <category>CEAC</category>
   <guid>https://geoinformatica.eng.br/Ensino/ENGJ20/</guid>
   <pubDate>Fri, 03 Jan 2025 03:00:00 GMT</pubDate>
-  <media:content url="https://geoinformatica.eng.br/Ensino/ENGJ20/20250703_212956.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://geoinformatica.eng.br/Ensino/ENGJ20/ENGJ20.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Ajustamento de Observações Geodésicas</title>
@@ -78,6 +149,7 @@
 
 
 
+<p><a href="https://alixandrini.github.io/ENGJ22/"><img src="https://geoinformatica.eng.br/Ensino/ENGJ22/IMG-20241018-WA0002.jpg" class="img-fluid"></a></p>
 <section id="objetivos" class="level2">
 <h2 class="anchored" data-anchor-id="objetivos">OBJETIVOS</h2>
 <p>Ao final da disciplina o estudante deve saber interpretar avaliações de Observações Geodésicas bem como diferenciar métodos de avaliação e poder debater sobre estratégias de abordagem de Ajustamento de Observações em experimentos de engenharia.<br>
@@ -112,6 +184,50 @@ Compreender as possibilidades do uso de Ajustamento de Observações Geodésicas
   <guid>https://geoinformatica.eng.br/Ensino/ENGJ22/</guid>
   <pubDate>Fri, 03 Jan 2025 03:00:00 GMT</pubDate>
   <media:content url="https://geoinformatica.eng.br/Ensino/ENGJ22/IMG-20241018-WA0002.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Ajustamento de Observações Geodésicas</title>
+  <link>https://geoinformatica.eng.br/Ensino/PPEC0039/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><a href="https://alixandrini.github.io/ENGJ22/"><img src="https://geoinformatica.eng.br/Ensino/PPEC0039/IMG-20241018-WA0002.jpg" class="img-fluid"></a></p>
+<section id="objetivos" class="level2">
+<h2 class="anchored" data-anchor-id="objetivos">OBJETIVOS</h2>
+<p>Ao final da disciplina o estudante deve saber interpretar avaliações de Observações Geodésicas bem como diferenciar métodos de avaliação e poder debater sobre estratégias de abordagem de Ajustamento de Observações em experimentos de engenharia.<br>
+Compreender as possibilidades do uso de Ajustamento de Observações Geodésicas dentro do escopo de trabalho. Estimar variáveis descritivas utilizando métodos estatísticos.</p>
+</section>
+<section id="ementa" class="level2">
+<h2 class="anchored" data-anchor-id="ementa">EMENTA</h2>
+<p>Métodos de ajustamento de observações geodésicas paramétrico, correlato e combinado. Inversa Generalizada. Ajustamento Livre. Pré-análise. Análise de Tendências, Injunções, Colocação, Filtro de Kalman. Analise da Qualidade e medidas de confiabilidade.</p>
+</section>
+<section id="conteúdo-programático" class="level2">
+<h2 class="anchored" data-anchor-id="conteúdo-programático">CONTEÚDO PROGRAMÁTICO</h2>
+<p>Utilização de Sistemas Lineares e o MMQ. Condicionamento de Sistemas. Ajustamento de Obs. diretas. Utilização do Método Paramétrico. Utilização do Método dos Correlatos. Aplicação do Método dos Correlatos nas triangulações. Utilização do Método Combinado. Utilização de Métodos Iterativos. Aplicação do Método Combinado com Injunções Análise utilizando Elipse dos Erros. Ajustamento Livre Inversas Generalizadas. Aplicação do Filtro de Kalman. Introdução ao Método de Colocação e Métodos Robustos.</p>
+</section>
+<section id="referências" class="level2">
+<h2 class="anchored" data-anchor-id="referências">REFERÊNCIAS</h2>
+<ol type="1">
+<li>GEMAEL, Camil. Introdução ao Ajustamento de Observações: Aplicações Geodésicas. Curitiba: Ed. UFPR, 1984. 319p.</li>
+<li>NAVRATIL, Gerhard. Ausgleichungsrechnung: die Anwendung statistischer Methoden in Vermessungswesen und GIS. Institute f¨ur Geoinformation und Kartographie,Wien:2006.</li>
+<li>GHILANI, C. D. and P. R. WOLF (2006). Adjustment Computations - Spatial Data Analysis (4. ed.). Hoboken, New Jersey: John Wiley &amp; Sons.</li>
+<li>GUPTIL, S. C. and J. L. MORRISON (Eds.) (1995). Elements of Spatial Data Quality. Elsevier, Oxford.</li>
+<li>PEROVI´C, G. (2005). Least Squares. University of Belgrade, Faculty of Civil Engineering.</li>
+<li>LEICK, A. (2004). GPS Satellite Surveying. 3rd Edition. John Wiley &amp; Sons, New York.</li>
+</ol>
+
+
+</section>
+
+ ]]></description>
+  <category>Python</category>
+  <category>Básico</category>
+  <category>CEAC</category>
+  <guid>https://geoinformatica.eng.br/Ensino/PPEC0039/</guid>
+  <pubDate>Fri, 03 Jan 2025 03:00:00 GMT</pubDate>
+  <media:content url="https://geoinformatica.eng.br/Ensino/PPEC0039/IMG-20241018-WA0002.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>

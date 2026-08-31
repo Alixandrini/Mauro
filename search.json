@@ -35,25 +35,25 @@
     "text": "Nuvem escaneado com FJD Trion P1 e convertida para o formato Potree"
   },
   {
-    "objectID": "Orientacoes/Thais/index.html",
-    "href": "Orientacoes/Thais/index.html",
-    "title": "Taís Sousa Andrade",
+    "objectID": "Orientacoes/Walterio/index.html",
+    "href": "Orientacoes/Walterio/index.html",
+    "title": "Waltério de Oliveira Goncalves",
     "section": "",
-    "text": "Taís vem desenvolvendo um trabalho de mestrado no PPEC/UFBA sob minha orientação, com o título “Reconhecimento de Coordenadas Espaciais em Textos de Linguagem Natural utilizando BERTimbau”. O estudo tem se desenvolvido com foco na aplicação de técnicas de aprendizado profundo para a extração de coordenadas espaciais em documentos fundiários, utilizando o modelo BERTimbau. O trabalho tem apresentado resultados promissores com publicação de artigos em conferências internacionais e nacionais, contatos com pesquisadores extrangeiros e dado início a um acordo de cooperação técnica com o segundo cartório de registro de imóveis de Salvador para aplicação do método desenvolvido em um cenário real."
+    "text": "Resumo da Dissertação\nCom a crescente demanda por eficiência na arrecadação municipal, a avaliação imobiliária adquiriu ainda mais relevância devido ao papel fundamental do Imposto Predial e Territorial Urbano (IPTU). Desde a implementação da Lei de Responsabilidade Fiscal, os municípios enfrentam a necessidade urgente de métodos mais robustos para calcular o valor venal dos imóveis, impulsionados pela busca por justiça tributária. Para garantir que os valores atribuídos aos imóveis reflitam de maneira justa suas características e localização, é essencial um planejamento detalhado e preciso. Este estudo teve como objetivo modelar parâmetros para a avaliação de imóveis urbanos, promovendo uma justa proporcionalidade na geração das Plantas de Valores Genéricos (PVG). A pesquisa foi realizada no município de Camaçari/BA, abrangendo partes dos bairros Arembepe, Barra de Jacuípe, Boa Esperança, Genipabu e Vale do Landirana, com uma amostra de 124 dados de imóveis do tipo terreno para a amostra de trabalho e 12 dados para a amostra de validação. A metodologia comparou a regressão clássica (MCRL) com modelos espaciais globais (CAR/SAR) e o modelo local de Regressão Geograficamente Ponderada (RGP). Os modelos gerados foram aplicados para capturar a variação espacial dos dados, e seu desempenho foi comparado por meio de indicadores de qualidade, como AIC, BIC, LIK, R² e RMSE, além de indicadores específicos para avaliação em massa, como Mediana das Razões (Med R), Coeficiente de Dispersão (COD) e Diferencial Relativo de Preço (PRD), conforme os critérios da International Association of Assessing Officers (IAAO). Os resultados indicaram que a RGP foi capaz de reduzir significativamente os efeitos espaciais, superando os demais modelos na maioria dos critérios de qualidade e desempenho. A metodologia foi combinada com a Krigagem Ordinária para gerar superfícies de valores unitários. O semivariograma ajustado ao modelo gaussiano permitiu a krigagem dos valores preditos, e a superfície gerada pelos valores preditos pela RGP obteve a menor raiz quadrada do erro quadrático médio (RMSE) e melhores indicadores de desempenho, próximos dos limites recomendados pela IAAO. Conclui-se que a modelagem RGP foi a mais eficaz para representar as variações espaciais dos valores imobiliários na área estudada, e a metodologia proposta para a geração da PVG demonstrou grande potencial para ser aplicada por municípios na avaliação em massa de imóveis urbanos, contribuindo para uma arrecadação tributária mais justa e precisa, especialmente para impostos como o IPTU e o ITBI.\n\n\n\nWaltério na sua defesa de Mestrado"
   },
   {
-    "objectID": "Orientacoes/Thais/index.html#resumo",
-    "href": "Orientacoes/Thais/index.html#resumo",
-    "title": "Taís Sousa Andrade",
-    "section": "Resumo",
-    "text": "Resumo\n\n\n\nModelo BERT pretreinado - BERTimbau\n\n\nO presente estudo tem como objetivo desenvolver um método baseado em aprendizado profundo para o reconhecimento e extração de coordenadas espaciais em textos de linguagem natural, utilizando o BERTimbau. A metodologia adotada envolve a coleta e anotação de um conjunto de dados composto por documentos fundiários que contenham referências geoespaciais. O modelo foi ajustado por meio de ine-tuning para a tarefa de Reconhecimento de Entidades Nomeadas, utilizando técnicas como tokenização WordPiece e ajuste de hiperparâmetros a partir de validação cruzada (k=5). A avaliação será realizada por meio das métricas F1-score, precisão e revocação, comparando o desempenho do modelo ajustado com a versão não treinada do BERTimbau. Os resultados preliminares indicam bom desempenho do BERTimbau para o REN de coordenadas espaciais (F1-score = 0,804) a partir da configuração da taxa de aprendizado de 5 x 10 −5 , tamanho do batch 8 e 5 épocas. Ruídos de OCR, desbalanceamento das classes BIO e fragmentação por janelamento foram desafios identificados no experimento piloto. Ao tratar coordenadas como entidades-alvo, a pesquisa expande o geoparsing para além de topônimos e sinaliza potencial de automação confiável na análise documental em engenharia, cadastro e regularização fundiária."
+    "objectID": "Orientacoes/João Marcos/index.html",
+    "href": "Orientacoes/João Marcos/index.html",
+    "title": "João Marcos Batista Pereira",
+    "section": "",
+    "text": "João Marcos desenvolveu um trabalho de conclusão de curso de Engenharia de Agrimensura e Cartográfica - UFBA sob minha orientação e coorientação do Eng. Elmo Bispo de Oliveira com o título “INSPEÇÃO PREDIAL COM O USO DE SENSORES RGB EM DRONES PARA GERAR MODELOS 3D”.\n\n\n\nExame de TCC de João Marcos\n\n\n\nRESUMO\nEste trabalho teve como objetivo avaliar a aplicabilidade do uso de aeronaves remotamente pilotas (RPAs) equipados com sensores RGB na inspeção predial de fachadas, por meio da geração de produtos aerofotogramétricos, tais como à obtenção de ortofotos, nuvem densa de pontos e modelos tridimensionais. A pesquisa foi desenvolvida a partir de um estudo de caso em edificação anexa à Escola Politécnica da Universidade Federal da Bahia (UFBA), utilizando voo manual em padrão vertical, com elevada sobreposição das imagens, visando alcançar o maior detalhamento possível no mento do tratamento dos dados. A metodologia adotada permitiu a identificação de manifestações patológicas superficiais, como degradação de revestimento, lacunas na fachada, infiltrações e exposição de armaduras. Os resultados demonstraram que a inspeção com RPAs apresenta elevada agilidade operacional, redução de riscos aos profissionais e eficiência na documentação do estado de conservação das fachadas, embora apresente limitações associadas à precisão absoluta quando não há o uso de técnicas de correção GNSS, como RTK ou PPK. Dessa forma, ficou evidente que a metodologia proposta constitui uma ferramenta técnica viável e complementar aos métodos convencionais de inspeção predial, fornecendo subsídios qualificados para o diagnóstico, planejamento de intervenções e apoio à tomada de decisão em edificações."
   },
   {
     "objectID": "Orientacoes/Elmo/index.html",
     "href": "Orientacoes/Elmo/index.html",
-    "title": "Eliza Silva Maia",
+    "title": "Elmo Bispo de Oliveira",
     "section": "",
-    "text": "Eliza vem desenvolvendo um trabalho de mestrado no PPEC/UFBA sob minha orientação, e coorientação do Prof. Fabiano com o título “Desenvolvimento de Rotinas Automatizadas para Controle de Qualidade Visual de Fotografias Aéreas”. O controle de qualidade é um aspecto crucial da fotogrametria e do LiDAR (Light Detection and Ranging), garantindo a precisão e confiabilidade dos dados coletados. Na fotogrametria, os métodos tradicionais de controle de qualidade envolvem a identificação e correção de erros em pontos de controle do solo (Ground Control Points - GCPs) e imagens aéreas. No entanto, esses métodos podem ser demorados e trabalhosos, especialmente para projetos de grande porte. Com o advento da fotogrametria digital e do LiDAR, surgiram técnicas mais automatizadas para o controle de qualidade como a correspondência de imagens e a detecção de mudanças. Estas técnicas podem ajudar a melhorar a eficiência e precisão do controle de qualidade, mas ainda estão em desenvolvimento e podem ser sensíveis a condições de imagem e terreno. Existem muitos parâmetros para serem avaliados na fiscalização de fotografias aéreas. Alguns deles exigem uma análise que até o momento é feita, na maioria das vezes, de forma manual e visual, a exemplo da detecção de sombras, nuvens, fumaças, brumas, arrasto, saturação/brilho fora do normal, ruídos na imagem, desequilíbrio de cores, pixels zerados ou sobrepostos, dentre outros. Porém, para fazer essa fiscalização é necessária uma equipe com muitos profissionais capacitados, por conta do volume do material, o que não é a realidade de grande parte dos órgãos públicos. Assim sendo, seria de grande utilidade que esses parâmetros pudessem ser verificados de forma automatizada, o que poderia reduzir o tempo e o esforço humano no controle de qualidade, além de aumentar a consistência e precisão das análises.\n\nDesenvolvimento de Rotinas Automatizadas para Controle de Qualidade Visual de Fotografias Aéreas\nOrientação: Prof. Mauro Alixandrini Co-orientação: Prof. Fabiano Freiman Programa de Pós-Graduação em Engenharia de Computação (PPEC/UFBA)"
+    "text": "Elmo desenvolveu um trabalho de mestrado no PPEC/UFBA sob minha coorientação, e orientação da Prof. Vivian Fernandes o com o título “Integração de GeoIA e Fotogrametria com RPA para atualização Cartográfica em escala urbana”."
   },
   {
     "objectID": "index.html",
@@ -119,39 +119,88 @@
     "text": "Seminário de Informações Geoespaciais - SPIE2026\n\n\n\nPython\n\nBásico\n\nCEAC\n\n\n\nO Seminário acontecerá no final do primeiro semestre de 2026 e tem como objetivo apresentar os resultados dos trabalhos desenvolvidos pelos estudantes durante a disciplina…\n\n\n\n\n\n\nJan 3, 2025\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "Ensino/ENGJ22/index.html",
-    "href": "Ensino/ENGJ22/index.html",
+    "objectID": "Ensino/PPEC0039/index.html#objetivos",
+    "href": "Ensino/PPEC0039/index.html#objetivos",
     "title": "Ajustamento de Observações Geodésicas",
-    "section": "",
-    "text": "Ao final da disciplina o estudante deve saber interpretar avaliações de Observações Geodésicas bem como diferenciar métodos de avaliação e poder debater sobre estratégias de abordagem de Ajustamento de Observações em experimentos de engenharia.\nCompreender as possibilidades do uso de Ajustamento de Observações Geodésicas dentro do escopo de trabalho. Estimar variáveis descritivas utilizando métodos estatísticos."
+    "section": "OBJETIVOS",
+    "text": "OBJETIVOS\nAo final da disciplina o estudante deve saber interpretar avaliações de Observações Geodésicas bem como diferenciar métodos de avaliação e poder debater sobre estratégias de abordagem de Ajustamento de Observações em experimentos de engenharia.\nCompreender as possibilidades do uso de Ajustamento de Observações Geodésicas dentro do escopo de trabalho. Estimar variáveis descritivas utilizando métodos estatísticos."
   },
   {
-    "objectID": "Ensino/ENGJ22/index.html#objetivos",
-    "href": "Ensino/ENGJ22/index.html#objetivos",
-    "title": "Ajustamento de Observações Geodésicas",
-    "section": "",
-    "text": "Ao final da disciplina o estudante deve saber interpretar avaliações de Observações Geodésicas bem como diferenciar métodos de avaliação e poder debater sobre estratégias de abordagem de Ajustamento de Observações em experimentos de engenharia.\nCompreender as possibilidades do uso de Ajustamento de Observações Geodésicas dentro do escopo de trabalho. Estimar variáveis descritivas utilizando métodos estatísticos."
-  },
-  {
-    "objectID": "Ensino/ENGJ22/index.html#ementa",
-    "href": "Ensino/ENGJ22/index.html#ementa",
+    "objectID": "Ensino/PPEC0039/index.html#ementa",
+    "href": "Ensino/PPEC0039/index.html#ementa",
     "title": "Ajustamento de Observações Geodésicas",
     "section": "EMENTA",
     "text": "EMENTA\nMétodos de ajustamento de observações geodésicas paramétrico, correlato e combinado. Inversa Generalizada. Ajustamento Livre. Pré-análise. Análise de Tendências, Injunções, Colocação, Filtro de Kalman. Analise da Qualidade e medidas de confiabilidade."
   },
   {
-    "objectID": "Ensino/ENGJ22/index.html#conteúdo-programático",
-    "href": "Ensino/ENGJ22/index.html#conteúdo-programático",
+    "objectID": "Ensino/PPEC0039/index.html#conteúdo-programático",
+    "href": "Ensino/PPEC0039/index.html#conteúdo-programático",
     "title": "Ajustamento de Observações Geodésicas",
     "section": "CONTEÚDO PROGRAMÁTICO",
     "text": "CONTEÚDO PROGRAMÁTICO\nUtilização de Sistemas Lineares e o MMQ. Condicionamento de Sistemas. Ajustamento de Obs. diretas. Utilização do Método Paramétrico. Utilização do Método dos Correlatos. Aplicação do Método dos Correlatos nas triangulações. Utilização do Método Combinado. Utilização de Métodos Iterativos. Aplicação do Método Combinado com Injunções Análise utilizando Elipse dos Erros. Ajustamento Livre Inversas Generalizadas. Aplicação do Filtro de Kalman. Introdução ao Método de Colocação e Métodos Robustos."
   },
   {
-    "objectID": "Ensino/ENGJ22/index.html#referências",
-    "href": "Ensino/ENGJ22/index.html#referências",
+    "objectID": "Ensino/PPEC0039/index.html#referências",
+    "href": "Ensino/PPEC0039/index.html#referências",
     "title": "Ajustamento de Observações Geodésicas",
     "section": "REFERÊNCIAS",
     "text": "REFERÊNCIAS\n\nGEMAEL, Camil. Introdução ao Ajustamento de Observações: Aplicações Geodésicas. Curitiba: Ed. UFPR, 1984. 319p.\nNAVRATIL, Gerhard. Ausgleichungsrechnung: die Anwendung statistischer Methoden in Vermessungswesen und GIS. Institute f¨ur Geoinformation und Kartographie,Wien:2006.\nGHILANI, C. D. and P. R. WOLF (2006). Adjustment Computations - Spatial Data Analysis (4. ed.). Hoboken, New Jersey: John Wiley & Sons.\nGUPTIL, S. C. and J. L. MORRISON (Eds.) (1995). Elements of Spatial Data Quality. Elsevier, Oxford.\nPEROVI´C, G. (2005). Least Squares. University of Belgrade, Faculty of Civil Engineering.\nLEICK, A. (2004). GPS Satellite Surveying. 3rd Edition. John Wiley & Sons, New York."
+  },
+  {
+    "objectID": "Ensino/ENGN80/index.html#ementa",
+    "href": "Ensino/ENGN80/index.html#ementa",
+    "title": "Geotécnologais Aplicada aos Recursos Hidricos",
+    "section": "EMENTA",
+    "text": "EMENTA\nConceitos e técnicas de geotecnologias visando seu uso como ferramenta de apoio à tomada de decisões para fins de gerenciamento hidroambiental. Conceitos de Cartografia Básica e Sistemas de Informação Geográfica, Formato de Dados Espaciais, Entrada de Dados. Funções dos SIGs. Mapeamento e análise ambiental. Sensoriamento remoto: princípios, tipos de sensores e aplicações Plataforma de coleta de dados: categorias e aplicações na hidrologia, hidrometeorológia e hidrogeologia. Aplicação de modelos hidrológicos, hidrometeorológicos e hidrogeológicos aos Sistemas de Informação dos Recursos Hídricos. Métodos computacionais em Recursos Hídricos. Determinação de parâmetros morfométricos e de relevo de uma bacia hidrográfica. Estudo da rede de drenagem."
+  },
+  {
+    "objectID": "Ensino/ENGN80/index.html#conteúdo-programático",
+    "href": "Ensino/ENGN80/index.html#conteúdo-programático",
+    "title": "Geotécnologais Aplicada aos Recursos Hidricos",
+    "section": "CONTEÚDO PROGRAMÁTICO",
+    "text": "CONTEÚDO PROGRAMÁTICO\no Introdução às Geotecnologias na Gestão de Recursos Hídricos e Saneamento. o Sistemas de Informação Geográfica (SIG) e Geoprocessamento. o Cartografia Básica: Sistemas de Referência de Coordenadas (Datum, Projeções UTM e Geográficas). o Estruturas de Dados Espaciais: Vetorial (Pontos, Linhas, Polígonos) vs. Matricial (Raster). o Apresentação da Interface do QGIS e configuração do ambiente de trabalho. o Modelos Digitais de Elevação (MDE / DEM): SRTM, ALOS PALSAR, FABDEM, COPEMICUS. o Pré-processamento do MDE: Correção de pias (Sink Fill / Depression Filling). o Análise hidrológica de MDE: Direção de Fluxo (Flow Direction), Acúmulo de Fluxo (Flow Accumulation). o Delimitação automática de bacias e sub-bacias hidrográficas e extração da rede de drenagem sintética. o Princípios físicos do Sensoriamento Remoto (Espectro Eletromagnético e Comportamento Espectral da Água, Vegetação e Solo). o Satélites e Sensores Ópticos e de Radar (Landsat, Sentinel-2, Sentinel-1, CBERS). o Índices Espectrais para recursos hídricos: NDWI (Normalized Difference Water Index), NDVI (Normalized Difference Vegetation Index). o Introdução ao Processamento Digital de Imagens (PDI): Classificação Supervisionada e Não-Supervisionada de Uso e Ocupação do Solo. o Ferramentas analíticas e operações de proximidade (Buffer, Overlay, Interseção, Junção Espacial). o Interpolação Espacial (IDW, Krigagem): Aplicação para mapeamento de precipitação/qualidade da água a partir de pontos de amostragem. o Aplicações do SIG no Saneamento Básico: Mapeamento de redes de água e esgoto, universalização dos serviços, gestão de perdas e localização de áreas para instalação de infraestruturas (ETEs, aterros sanitários). o Integração de Geoprocessamento com Sistemas de Apoio à Decisão (SAD) e Regulação. o Elaboração de mapas temáticos profissionais e Layout de Impressão no QGIS. o Introdução ao WebGIS, dashboards espaciais e publicação de dados (QGIS Cloud, Felt ou exportação para GeoJSON/KML para tomada de decisão)."
+  },
+  {
+    "objectID": "Ensino/ENGJ20/index.html#objetivos",
+    "href": "Ensino/ENGJ20/index.html#objetivos",
+    "title": "Programação aplicada à Engenharia de Agrimensura",
+    "section": "OBJETIVOS",
+    "text": "OBJETIVOS\n\nSistematizar e organizar o raciocínio na resolução de problemas de forma algorítmica;\nConhecer as principais formas de representação de um algoritmo, independente de uma linguagem de programação em particular;\nIniciar o desenvolvimento de programas corretos, eficientes, estruturados, bem documentados e consistentes (robustos);\nDominar o conceito de funções, funções recursivas, variáveis locais e globais, passagem de parâmetros, ponteiros e passagem de parâmetros por endereço;\nConhecer a sintaxe e a semântica de uma linguagem de programação estruturada – C;\nDesenvolver programas de pequeno e médio porte, usando variáveis simples e estruturadas (arrays multidimensionais, struct e file), associados às diferentes classes de problemas numéricos e não-numéricos, fundamentais no exercício cotidiano da prática de programação;\nTrabalhar com algoritmos básicos associados a problemas de ordenação e de busca, além de alguns problemas geométricos;\nEstar apto a iniciar o aprendizado de estruturas de dados dinâmicas e técnicas de programação mais avançadas."
+  },
+  {
+    "objectID": "Ensino/ENGJ20/index.html#ementa",
+    "href": "Ensino/ENGJ20/index.html#ementa",
+    "title": "Programação aplicada à Engenharia de Agrimensura",
+    "section": "EMENTA",
+    "text": "EMENTA\nConceitos básicos de computadores. Linguagem de programação. Aplicação de computadores digitais. Técnica e programação estruturada. Linguagem de programação. Conceito de sub-programação. Tópicos em sistemas operacionais. Simulação e otimização. Operações com vetores, matrizes, funções trigonométricas. Manuseio de imagens. Noções de CAD e georreferenciamento."
+  },
+  {
+    "objectID": "Ensino/ENGJ20/index.html#conteúdo-programático",
+    "href": "Ensino/ENGJ20/index.html#conteúdo-programático",
+    "title": "Programação aplicada à Engenharia de Agrimensura",
+    "section": "CONTEÚDO PROGRAMÁTICO",
+    "text": "CONTEÚDO PROGRAMÁTICO\nEstrutura Computacional: hardware e software. Linguagem de Programação de Alto Nível: aspectos históricos, conceitos e características básicas; compiladores existentes em diferentes plataformas; estrutura geral de um programa (linguagem adotada); operadores (atribuição, booleanos, aritméticos, relacionais, outros); precedência entre operadores; expressões aritméticas e booleanas; variáveis simples (identificadores e tipos de dados primitivos; resolução de problemas); comandos de entrada e saída; estruturas de controle de fluxo de execução de programas (comandos de atribuição, seleção e repetição); estruturas de dados homogêneas (arranjos multidimensionais; declaração, inicialização e representação interna; acesso a elementos de forma indexada; geração de números pseudo-aleatórios; resolução de problemas envolvendo arranjos multidimensionais; estudos de casos unidimensionais – problemas de ordenação e de busca; manipulação matricial); estruturas de dados heterogêneas (estruturas – declaração, inicialização e representação interna, acesso a componentes; estruturas aninhadas; arranjos de estruturas; uniões e tipos enumeráveis; arquivos – relevância; conceitos básicos, arquivos do tipo texto e binário; funções de manipulação de arquivos; manipulação de arquivos texto e de arquivos binários); modularidade (filosofia, conceitos básicos, passagem de parâmetros e valores de retorno, variáveis locais e globais); recursividade (princípio de indução finita; definição e exemplos; elaboração de funções recursivas simples; estrutura de pilha subjacente às chamadas recursivas; vantagens e desvantagens do uso da recursão)."
+  },
+  {
+    "objectID": "Ensino/ENGJ20/index.html#referências",
+    "href": "Ensino/ENGJ20/index.html#referências",
+    "title": "Programação aplicada à Engenharia de Agrimensura",
+    "section": "REFERÊNCIAS",
+    "text": "REFERÊNCIAS\n\nASCENCIO, A. F. G.; CAMPOS, E. A. V. C. Fundamentos da programação de computadores: algoritmos, pascal e C/C++. Pearson Prentice Hall, 2003. 355p.\nKERNINGHAN, B. W.; Pike, R. A Prática de Programação. Rio de Janeiro: Editora Campus, 2000. 280p.\nHOLLOWAY, J. P. Introdução a Programação para Engenharia: resolvendo problemas com algoritmos. LTC Editora, 2006. 339p.\nLOPES, A.; GARCIA, G. Introdução à Programação: 500 exercícios resolvidos. Rio de Janeiro: Editora Campus, 2002. 469p.\nMEDINA, M.; FERTIG, C. Algoritmos e programação: teoria e prática. São Paulo: Novatec Editora, 2005. 384p.\nOLIVEIRA, U. Programando em C, vol. I – fundamentos. Editora Ciência Moderna, 2008. 743p."
+  },
+  {
+    "objectID": "Ensino/ENGJ20/index.html#bibliografia-complementar",
+    "href": "Ensino/ENGJ20/index.html#bibliografia-complementar",
+    "title": "Programação aplicada à Engenharia de Agrimensura",
+    "section": "BIBLIOGRAFIA COMPLEMENTAR",
+    "text": "BIBLIOGRAFIA COMPLEMENTAR\n\nMANZANO, Jose Augusto N. G.; OLIVEIRA, Jayr Figueredo de. Algoritmos: lógica para o desenvolvimento de programação. 13. ed. São Paulo: Érica, 2002.\nNORTON, Peter. Introdução à informática. São Paulo: Makron Books do Brasil, 1997.\nFORBELLONE, A.L.V.; EBERSPÄCHER, H.F. Lógica de programação: a construção de algoritmos e estruturas de dados. São Paulo: Makron Books, 1993."
+  },
+  {
+    "objectID": "Aviso_Legal/index.html",
+    "href": "Aviso_Legal/index.html",
+    "title": "Aviso Legal",
+    "section": "",
+    "text": "As opiniões expressas neste site são de inteira responsabilidade do autor, em sua capacidade estrita de caráter pessoal. Elas não refletem os pontos de vista de nenhuma organização, empresa ou conselho com o qual ele esteja associado, incluindo qualquer empregador atual ou anterior.\nO conteúdo deste site é fornecido exclusivamente para fins informativos e não constitui aconselhamento profissional. Embora eu faça esforços razoáveis para garantir a precisão das informações, não dou garantias ou declarações de qualquer tipo em relação à integridade, exatidão ou confiabilidade de qualquer informação aqui apresentada.\nO uso de qualquer informação contida neste site é por sua própria conta e risco. Não assumo qualquer responsabilidade por quaisquer perdas ou danos decorrentes da confiança depositada no conteúdo deste site."
   },
   {
     "objectID": "correcoes/index.html",
@@ -196,60 +245,53 @@
     "text": "Escopo\nEsta política se aplica a todo o conteúdo publicado em geoinformatica.eng.br. Ela não se aplica ao conteúdo de sites externos para os quais eu possa fornecer links."
   },
   {
-    "objectID": "Aviso_Legal/index.html",
-    "href": "Aviso_Legal/index.html",
-    "title": "Aviso Legal",
-    "section": "",
-    "text": "As opiniões expressas neste site são de inteira responsabilidade do autor, em sua capacidade estrita de caráter pessoal. Elas não refletem os pontos de vista de nenhuma organização, empresa ou conselho com o qual ele esteja associado, incluindo qualquer empregador atual ou anterior.\nO conteúdo deste site é fornecido exclusivamente para fins informativos e não constitui aconselhamento profissional. Embora eu faça esforços razoáveis para garantir a precisão das informações, não dou garantias ou declarações de qualquer tipo em relação à integridade, exatidão ou confiabilidade de qualquer informação aqui apresentada.\nO uso de qualquer informação contida neste site é por sua própria conta e risco. Não assumo qualquer responsabilidade por quaisquer perdas ou danos decorrentes da confiança depositada no conteúdo deste site."
+    "objectID": "Ensino/ENGJ22/index.html#objetivos",
+    "href": "Ensino/ENGJ22/index.html#objetivos",
+    "title": "Ajustamento de Observações Geodésicas",
+    "section": "OBJETIVOS",
+    "text": "OBJETIVOS\nAo final da disciplina o estudante deve saber interpretar avaliações de Observações Geodésicas bem como diferenciar métodos de avaliação e poder debater sobre estratégias de abordagem de Ajustamento de Observações em experimentos de engenharia.\nCompreender as possibilidades do uso de Ajustamento de Observações Geodésicas dentro do escopo de trabalho. Estimar variáveis descritivas utilizando métodos estatísticos."
   },
   {
-    "objectID": "Ensino/ENGJ20/index.html",
-    "href": "Ensino/ENGJ20/index.html",
-    "title": "Programação aplicada à Engenharia de Agrimensura",
-    "section": "",
-    "text": "Sistematizar e organizar o raciocínio na resolução de problemas de forma algorítmica;\nConhecer as principais formas de representação de um algoritmo, independente de uma linguagem de programação em particular;\nIniciar o desenvolvimento de programas corretos, eficientes, estruturados, bem documentados e consistentes (robustos);\nDominar o conceito de funções, funções recursivas, variáveis locais e globais, passagem de parâmetros, ponteiros e passagem de parâmetros por endereço;\nConhecer a sintaxe e a semântica de uma linguagem de programação estruturada – C;\nDesenvolver programas de pequeno e médio porte, usando variáveis simples e estruturadas (arrays multidimensionais, struct e file), associados às diferentes classes de problemas numéricos e não-numéricos, fundamentais no exercício cotidiano da prática de programação;\nTrabalhar com algoritmos básicos associados a problemas de ordenação e de busca, além de alguns problemas geométricos;\nEstar apto a iniciar o aprendizado de estruturas de dados dinâmicas e técnicas de programação mais avançadas."
-  },
-  {
-    "objectID": "Ensino/ENGJ20/index.html#objetivos",
-    "href": "Ensino/ENGJ20/index.html#objetivos",
-    "title": "Programação aplicada à Engenharia de Agrimensura",
-    "section": "",
-    "text": "Sistematizar e organizar o raciocínio na resolução de problemas de forma algorítmica;\nConhecer as principais formas de representação de um algoritmo, independente de uma linguagem de programação em particular;\nIniciar o desenvolvimento de programas corretos, eficientes, estruturados, bem documentados e consistentes (robustos);\nDominar o conceito de funções, funções recursivas, variáveis locais e globais, passagem de parâmetros, ponteiros e passagem de parâmetros por endereço;\nConhecer a sintaxe e a semântica de uma linguagem de programação estruturada – C;\nDesenvolver programas de pequeno e médio porte, usando variáveis simples e estruturadas (arrays multidimensionais, struct e file), associados às diferentes classes de problemas numéricos e não-numéricos, fundamentais no exercício cotidiano da prática de programação;\nTrabalhar com algoritmos básicos associados a problemas de ordenação e de busca, além de alguns problemas geométricos;\nEstar apto a iniciar o aprendizado de estruturas de dados dinâmicas e técnicas de programação mais avançadas."
-  },
-  {
-    "objectID": "Ensino/ENGJ20/index.html#ementa",
-    "href": "Ensino/ENGJ20/index.html#ementa",
-    "title": "Programação aplicada à Engenharia de Agrimensura",
+    "objectID": "Ensino/ENGJ22/index.html#ementa",
+    "href": "Ensino/ENGJ22/index.html#ementa",
+    "title": "Ajustamento de Observações Geodésicas",
     "section": "EMENTA",
-    "text": "EMENTA\nConceitos básicos de computadores. Linguagem de programação. Aplicação de computadores digitais. Técnica e programação estruturada. Linguagem de programação. Conceito de sub-programação. Tópicos em sistemas operacionais. Simulação e otimização. Operações com vetores, matrizes, funções trigonométricas. Manuseio de imagens. Noções de CAD e georreferenciamento."
+    "text": "EMENTA\nMétodos de ajustamento de observações geodésicas paramétrico, correlato e combinado. Inversa Generalizada. Ajustamento Livre. Pré-análise. Análise de Tendências, Injunções, Colocação, Filtro de Kalman. Analise da Qualidade e medidas de confiabilidade."
   },
   {
-    "objectID": "Ensino/ENGJ20/index.html#conteúdo-programático",
-    "href": "Ensino/ENGJ20/index.html#conteúdo-programático",
-    "title": "Programação aplicada à Engenharia de Agrimensura",
+    "objectID": "Ensino/ENGJ22/index.html#conteúdo-programático",
+    "href": "Ensino/ENGJ22/index.html#conteúdo-programático",
+    "title": "Ajustamento de Observações Geodésicas",
     "section": "CONTEÚDO PROGRAMÁTICO",
-    "text": "CONTEÚDO PROGRAMÁTICO\nEstrutura Computacional: hardware e software. Linguagem de Programação de Alto Nível: aspectos históricos, conceitos e características básicas; compiladores existentes em diferentes plataformas; estrutura geral de um programa (linguagem adotada); operadores (atribuição, booleanos, aritméticos, relacionais, outros); precedência entre operadores; expressões aritméticas e booleanas; variáveis simples (identificadores e tipos de dados primitivos; resolução de problemas); comandos de entrada e saída; estruturas de controle de fluxo de execução de programas (comandos de atribuição, seleção e repetição); estruturas de dados homogêneas (arranjos multidimensionais; declaração, inicialização e representação interna; acesso a elementos de forma indexada; geração de números pseudo-aleatórios; resolução de problemas envolvendo arranjos multidimensionais; estudos de casos unidimensionais – problemas de ordenação e de busca; manipulação matricial); estruturas de dados heterogêneas (estruturas – declaração, inicialização e representação interna, acesso a componentes; estruturas aninhadas; arranjos de estruturas; uniões e tipos enumeráveis; arquivos – relevância; conceitos básicos, arquivos do tipo texto e binário; funções de manipulação de arquivos; manipulação de arquivos texto e de arquivos binários); modularidade (filosofia, conceitos básicos, passagem de parâmetros e valores de retorno, variáveis locais e globais); recursividade (princípio de indução finita; definição e exemplos; elaboração de funções recursivas simples; estrutura de pilha subjacente às chamadas recursivas; vantagens e desvantagens do uso da recursão)."
+    "text": "CONTEÚDO PROGRAMÁTICO\nUtilização de Sistemas Lineares e o MMQ. Condicionamento de Sistemas. Ajustamento de Obs. diretas. Utilização do Método Paramétrico. Utilização do Método dos Correlatos. Aplicação do Método dos Correlatos nas triangulações. Utilização do Método Combinado. Utilização de Métodos Iterativos. Aplicação do Método Combinado com Injunções Análise utilizando Elipse dos Erros. Ajustamento Livre Inversas Generalizadas. Aplicação do Filtro de Kalman. Introdução ao Método de Colocação e Métodos Robustos."
   },
   {
-    "objectID": "Ensino/ENGJ20/index.html#referências",
-    "href": "Ensino/ENGJ20/index.html#referências",
-    "title": "Programação aplicada à Engenharia de Agrimensura",
+    "objectID": "Ensino/ENGJ22/index.html#referências",
+    "href": "Ensino/ENGJ22/index.html#referências",
+    "title": "Ajustamento de Observações Geodésicas",
     "section": "REFERÊNCIAS",
-    "text": "REFERÊNCIAS\n\nASCENCIO, A. F. G.; CAMPOS, E. A. V. C. Fundamentos da programação de computadores: algoritmos, pascal e C/C++. Pearson Prentice Hall, 2003. 355p.\nKERNINGHAN, B. W.; Pike, R. A Prática de Programação. Rio de Janeiro: Editora Campus, 2000. 280p.\nHOLLOWAY, J. P. Introdução a Programação para Engenharia: resolvendo problemas com algoritmos. LTC Editora, 2006. 339p.\nLOPES, A.; GARCIA, G. Introdução à Programação: 500 exercícios resolvidos. Rio de Janeiro: Editora Campus, 2002. 469p.\nMEDINA, M.; FERTIG, C. Algoritmos e programação: teoria e prática. São Paulo: Novatec Editora, 2005. 384p.\nOLIVEIRA, U. Programando em C, vol. I – fundamentos. Editora Ciência Moderna, 2008. 743p."
-  },
-  {
-    "objectID": "Ensino/ENGJ20/index.html#bibliografia-complementar",
-    "href": "Ensino/ENGJ20/index.html#bibliografia-complementar",
-    "title": "Programação aplicada à Engenharia de Agrimensura",
-    "section": "BIBLIOGRAFIA COMPLEMENTAR",
-    "text": "BIBLIOGRAFIA COMPLEMENTAR\n\nMANZANO, Jose Augusto N. G.; OLIVEIRA, Jayr Figueredo de. Algoritmos: lógica para o desenvolvimento de programação. 13. ed. São Paulo: Érica, 2002.\nNORTON, Peter. Introdução à informática. São Paulo: Makron Books do Brasil, 1997.\nFORBELLONE, A.L.V.; EBERSPÄCHER, H.F. Lógica de programação: a construção de algoritmos e estruturas de dados. São Paulo: Makron Books, 1993."
+    "text": "REFERÊNCIAS\n\nGEMAEL, Camil. Introdução ao Ajustamento de Observações: Aplicações Geodésicas. Curitiba: Ed. UFPR, 1984. 319p.\nNAVRATIL, Gerhard. Ausgleichungsrechnung: die Anwendung statistischer Methoden in Vermessungswesen und GIS. Institute f¨ur Geoinformation und Kartographie,Wien:2006.\nGHILANI, C. D. and P. R. WOLF (2006). Adjustment Computations - Spatial Data Analysis (4. ed.). Hoboken, New Jersey: John Wiley & Sons.\nGUPTIL, S. C. and J. L. MORRISON (Eds.) (1995). Elements of Spatial Data Quality. Elsevier, Oxford.\nPEROVI´C, G. (2005). Least Squares. University of Belgrade, Faculty of Civil Engineering.\nLEICK, A. (2004). GPS Satellite Surveying. 3rd Edition. John Wiley & Sons, New York."
   },
   {
     "objectID": "Ensino/index.html",
     "href": "Ensino/index.html",
     "title": "Ensino",
     "section": "",
-    "text": "Programação aplicada à Engenharia de Agrimensura\n\n\n\nPython\n\nBásico\n\nCEAC\n\n\n\nA disciplina ofertada para alunos de Engenharia Cartográfica e de Agrimensura no semestre letivo de 2025.1.\n\n\n\n\n\n\nJan 3, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nAjustamento de Observações Geodésicas\n\n\n\nPython\n\nBásico\n\nCEAC\n\n\n\nA disciplina ofertada para alunos de Engenharia Cartográfica e de Agrimensura no semestre letivo de 2025.2.\n\n\n\n\n\n\nJan 3, 2025\n\n\n\n\n\n\nNo matching items"
+    "text": "Sensoriamento Remoto\n\n\n\nPython\n\nML\n\nPPEC\n\nGeoAI\n\n\n\nA disciplina ofertada para Pós-graduação em 2026-2\n\n\n\n\n\n\nAug 15, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nGeotécnologais Aplicada aos Recursos Hidricos\n\n\n\nPython\n\nProfágua\n\nPós-graduação\n\nQGIS\n\n\n\nA disciplina do Profágua/UFBA\n\n\n\n\n\n\nJul 15, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nProgramação aplicada à Engenharia de Agrimensura\n\n\n\nPython\n\nBásico\n\nCEAC\n\n\n\nA disciplina ofertada para alunos de Engenharia Cartográfica e de Agrimensura no semestre letivo de 2025.1.\n\n\n\n\n\n\nJan 3, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nAjustamento de Observações Geodésicas\n\n\n\nPython\n\nBásico\n\nCEAC\n\n\n\nA disciplina ofertada para alunos de Engenharia Cartográfica e de Agrimensura no semestre letivo de 2025.2.\n\n\n\n\n\n\nJan 3, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nAjustamento de Observações Geodésicas\n\n\n\nPython\n\nBásico\n\nCEAC\n\n\n\nA disciplina ofertada para alunos de Engenharia Cartográfica e de Agrimensura no semestre letivo de 2025.2.\n\n\n\n\n\n\nJan 3, 2025\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Ensino/PPEC083/index.html#objetivos",
+    "href": "Ensino/PPEC083/index.html#objetivos",
+    "title": "Sensoriamento Remoto",
+    "section": "OBJETIVOS",
+    "text": "OBJETIVOS\nNessa edição a disciplina abordará Tarefas Principais de IA em Sensoriamento Remoto, Modelos Fundacionais e Embeddings de Satélite, Integração com QGIS e Projetos Prático."
+  },
+  {
+    "objectID": "Ensino/PPEC083/index.html#conteúdo-programático",
+    "href": "Ensino/PPEC083/index.html#conteúdo-programático",
+    "title": "Sensoriamento Remoto",
+    "section": "CONTEÚDO PROGRAMÁTICO",
+    "text": "CONTEÚDO PROGRAMÁTICO\n\nFundamentos e Configuração do Ambiente GeoAI: Python, VS Code / Positron, Conda/Mamba e Manipulação de Rasters/Vetores.\nAquisição e Preparação de Dados: STAC Catalogs, APIs abertas, Cloud-Optimized GeoTIFFs (COG) e criação de chips de treinamento.\nTarefas Principais de IA: Classificação de Uso e Cobertura (Pixel vs. Objeto), Detecção de Alvos e Segmentação Semântica (U-Net).\nModelos Fundacionais e Embeddings de Satélite: Segment Anything Model (SAM), LangSAM (prompts por texto) e Foundation Models.\nIntegração com QGIS e Projetos Práticos: Plugins em QGIS (segment-geospatial) e desenvolvimento do Projeto Integrador."
   },
   {
     "objectID": "Eventos/SPIE/index.html",
@@ -263,14 +305,28 @@
     "href": "Orientacoes/Eliza/index.html",
     "title": "Eliza Silva Maia",
     "section": "",
-    "text": "Eliza vem desenvolvendo um trabalho de mestrado no PPEC/UFBA sob minha orientação, e coorientação do Prof. Fabiano com o título “Desenvolvimento de Rotinas Automatizadas para Controle de Qualidade Visual de Fotografias Aéreas”. O controle de qualidade é um aspecto crucial da fotogrametria e do LiDAR (Light Detection and Ranging), garantindo a precisão e confiabilidade dos dados coletados. Na fotogrametria, os métodos tradicionais de controle de qualidade envolvem a identificação e correção de erros em pontos de controle do solo (Ground Control Points - GCPs) e imagens aéreas. No entanto, esses métodos podem ser demorados e trabalhosos, especialmente para projetos de grande porte. Com o advento da fotogrametria digital e do LiDAR, surgiram técnicas mais automatizadas para o controle de qualidade como a correspondência de imagens e a detecção de mudanças. Estas técnicas podem ajudar a melhorar a eficiência e precisão do controle de qualidade, mas ainda estão em desenvolvimento e podem ser sensíveis a condições de imagem e terreno. Existem muitos parâmetros para serem avaliados na fiscalização de fotografias aéreas. Alguns deles exigem uma análise que até o momento é feita, na maioria das vezes, de forma manual e visual, a exemplo da detecção de sombras, nuvens, fumaças, brumas, arrasto, saturação/brilho fora do normal, ruídos na imagem, desequilíbrio de cores, pixels zerados ou sobrepostos, dentre outros. Porém, para fazer essa fiscalização é necessária uma equipe com muitos profissionais capacitados, por conta do volume do material, o que não é a realidade de grande parte dos órgãos públicos. Assim sendo, seria de grande utilidade que esses parâmetros pudessem ser verificados de forma automatizada, o que poderia reduzir o tempo e o esforço humano no controle de qualidade, além de aumentar a consistência e precisão das análises.\n\nDesenvolvimento de Rotinas Automatizadas para Controle de Qualidade Visual de Fotografias Aéreas\nOrientação: Prof. Mauro Alixandrini Co-orientação: Prof. Fabiano Freiman Programa de Pós-Graduação em Engenharia de Computação (PPEC/UFBA)"
+    "text": "Eliza vem desenvolvendo um trabalho de mestrado no PPEC/UFBA sob minha orientação, e coorientação do Prof. Fabiano com o título “Desenvolvimento de Rotinas Automatizadas para Controle de Qualidade Visual de Fotografias Aéreas”. O controle de qualidade é um aspecto crucial da fotogrametria e do LiDAR (Light Detection and Ranging), garantindo a precisão e confiabilidade dos dados coletados. Na fotogrametria, os métodos tradicionais de controle de qualidade envolvem a identificação e correção de erros em pontos de controle do solo (Ground Control Points - GCPs) e imagens aéreas. No entanto, esses métodos podem ser demorados e trabalhosos, especialmente para projetos de grande porte. Com o advento da fotogrametria digital e do LiDAR, surgiram técnicas mais automatizadas para o controle de qualidade como a correspondência de imagens e a detecção de mudanças. Estas técnicas podem ajudar a melhorar a eficiência e precisão do controle de qualidade, mas ainda estão em desenvolvimento e podem ser sensíveis a condições de imagem e terreno. Existem muitos parâmetros para serem avaliados na fiscalização de fotografias aéreas. Alguns deles exigem uma análise que até o momento é feita, na maioria das vezes, de forma manual e visual, a exemplo da detecção de sombras, nuvens, fumaças, brumas, arrasto, saturação/brilho fora do normal, ruídos na imagem, desequilíbrio de cores, pixels zerados ou sobrepostos, dentre outros. Porém, para fazer essa fiscalização é necessária uma equipe com muitos profissionais capacitados, por conta do volume do material, o que não é a realidade de grande parte dos órgãos públicos. Assim sendo, seria de grande utilidade que esses parâmetros pudessem ser verificados de forma automatizada, o que poderia reduzir o tempo e o esforço humano no controle de qualidade, além de aumentar a consistência e precisão das análises.\n\n\n\nEliza Silva Maia\n\n\n\nDesenvolvimento de Rotinas Automatizadas para Controle de Qualidade Visual de Fotografias Aéreas\nOrientação: Prof. Mauro Alixandrini Co-orientação: Prof. Fabiano Freiman Programa de Pós-Graduação em Engenharia de Computação (PPEC/UFBA)"
   },
   {
     "objectID": "Orientacoes/index.html",
     "href": "Orientacoes/index.html",
     "title": "Orientações",
     "section": "",
-    "text": "Eliza Silva Maia\n\n\n\nMestrado\n\nPPEC\n\n2025.1\n\n\n\nOrientação de mestrado da aluna Eliza Silva Maia, com o título “Desenvolvimento de Rotinas Automatizadas para Controle de Qualidade Visual de Fotografias Aéreas”. O objetivo…\n\n\n\n\n\n\nJan 3, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nEliza Silva Maia\n\n\n\nMestrado\n\nPPEC\n\n2025.1\n\n\n\nOrientação de mestrado da aluna Eliza Silva Maia, com o título “Desenvolvimento de Rotinas Automatizadas para Controle de Qualidade Visual de Fotografias Aéreas”. O objetivo…\n\n\n\n\n\n\nJan 3, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nTaís Sousa Andrade\n\n\n\nMestrado\n\nPPEC\n\n2024.1\n\n\n\nOrientação de mestrado da aluna Taís Sousa Andrade, com o título “Reconhecimento de Coordenadas Espaciais em Textos de Linguagem Natural utilizando BERTimbau”. O estudo tem…\n\n\n\n\n\n\nJan 3, 2025\n\n\n\n\n\n\nNo matching items"
+    "text": "Eliza Silva Maia\n\n\n\nMestrado\n\nPPEC\n\n2025.1\n\n\n\nOrientação de mestrado da aluna Eliza Silva Maia, com o título “Desenvolvimento de Rotinas Automatizadas para Controle de Qualidade Visual de Fotografias Aéreas”. O objetivo…\n\n\n\n\n\n\nJan 3, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nElmo Bispo de Oliveira\n\n\n\nMestrado\n\nPPEC\n\n2024.1\n\n\n\nINTEGRAÇÃO DE GEOIA E FOTOGRAMETRIA COM RPA PARA MAPEAMENTO CARTOGRÁFICO EM ESCALA GRANDE\n\n\n\n\n\n\nJan 3, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nJoão Marcos Batista Pereira\n\n\n\nGraduação\n\nCEAC\n\n2025.1\n\n\n\ntrabalho de conclusão de curso de Engenharia de Agrimensura e Cartográfica\n\n\n\n\n\n\nJan 3, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nWaltério de Oliveira Goncalves\n\n\n\nMestrado\n\nPPEC\n\n2024.1\n\n\n\nAVALIAÇÃO EM MASSA DE IMÓVEIS URBANOS ATRAVÉS DE MODELAGEM DE REGRESSÃO ESPACIAL\n\n\n\n\n\n\nJan 3, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nTaís Sousa Andrade\n\n\n\nMestrado\n\nPPEC\n\n2024.1\n\n\n\nOrientação de mestrado da aluna Taís Sousa Andrade, com o título “Reconhecimento de Coordenadas Espaciais em Textos de Linguagem Natural utilizando BERTimbau”. O estudo tem…\n\n\n\n\n\n\nJan 3, 2025\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Orientacoes/Thais/index.html",
+    "href": "Orientacoes/Thais/index.html",
+    "title": "Taís Sousa Andrade",
+    "section": "",
+    "text": "Taís vem desenvolvendo um trabalho de mestrado no PPEC/UFBA sob minha orientação, com o título “Reconhecimento de Coordenadas Espaciais em Textos de Linguagem Natural utilizando BERTimbau”. O estudo tem se desenvolvido com foco na aplicação de técnicas de aprendizado profundo para a extração de coordenadas espaciais em documentos fundiários, utilizando o modelo BERTimbau. O trabalho tem apresentado resultados promissores com publicação de artigos em conferências internacionais e nacionais, contatos com pesquisadores extrangeiros e dado início a um acordo de cooperação técnica com o segundo cartório de registro de imóveis de Salvador para aplicação do método desenvolvido em um cenário real."
+  },
+  {
+    "objectID": "Orientacoes/Thais/index.html#resumo",
+    "href": "Orientacoes/Thais/index.html#resumo",
+    "title": "Taís Sousa Andrade",
+    "section": "Resumo",
+    "text": "Resumo\n\n\n\nModelo BERT pretreinado - BERTimbau\n\n\nO presente estudo tem como objetivo desenvolver um método baseado em aprendizado profundo para o reconhecimento e extração de coordenadas espaciais em textos de linguagem natural, utilizando o BERTimbau. A metodologia adotada envolve a coleta e anotação de um conjunto de dados composto por documentos fundiários que contenham referências geoespaciais. O modelo foi ajustado por meio de ine-tuning para a tarefa de Reconhecimento de Entidades Nomeadas, utilizando técnicas como tokenização WordPiece e ajuste de hiperparâmetros a partir de validação cruzada (k=5). A avaliação será realizada por meio das métricas F1-score, precisão e revocação, comparando o desempenho do modelo ajustado com a versão não treinada do BERTimbau. Os resultados preliminares indicam bom desempenho do BERTimbau para o REN de coordenadas espaciais (F1-score = 0,804) a partir da configuração da taxa de aprendizado de 5 x 10 −5 , tamanho do batch 8 e 5 épocas. Ruídos de OCR, desbalanceamento das classes BIO e fragmentação por janelamento foram desafios identificados no experimento piloto. Ao tratar coordenadas como entidades-alvo, a pesquisa expande o geoparsing para além de topônimos e sinaliza potencial de automação confiável na análise documental em engenharia, cadastro e regularização fundiária."
   },
   {
     "objectID": "politica_privacidade/index.html",

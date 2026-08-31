@@ -8,8 +8,11 @@
   {
     "listing": "/Ensino/index.html",
     "items": [
+      "/Ensino/PPEC083/index.html",
+      "/Ensino/ENGN80/index.html",
       "/Ensino/ENGJ20/index.html",
-      "/Ensino/ENGJ22/index.html"
+      "/Ensino/ENGJ22/index.html",
+      "/Ensino/PPEC0039/index.html"
     ]
   },
   {
@@ -17,6 +20,8 @@
     "items": [
       "/Orientacoes/Eliza/index.html",
       "/Orientacoes/Elmo/index.html",
+      "/Orientacoes/João Marcos/index.html",
+      "/Orientacoes/Walterio/index.html",
       "/Orientacoes/Thais/index.html"
     ]
   },

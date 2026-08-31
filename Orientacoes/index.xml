@@ -9,7 +9,7 @@
 <link>https://geoinformatica.eng.br/Orientacoes/</link>
 <atom:link href="https://geoinformatica.eng.br/Orientacoes/index.xml" rel="self" type="application/rss+xml"/>
 <description>Mauro Alixandrini is a geoinformatics researcher and educator specialising in spatial data analysis, remote sensing, and geographic information systems. Author of Geoinformática: Uma Abordagem Prática para Engenheiros e Desenvolvedores (Editora Campus).</description>
-<generator>quarto-1.9.37</generator>
+<generator>quarto-1.9.38</generator>
 <lastBuildDate>Sat, 03 Jan 2026 03:00:00 GMT</lastBuildDate>
 <item>
   <title>Eliza Silva Maia</title>
@@ -20,6 +20,12 @@
 
 
 <p>Eliza vem desenvolvendo um trabalho de mestrado no PPEC/UFBA sob minha orientação, e coorientação do Prof.&nbsp;Fabiano com o título “Desenvolvimento de Rotinas Automatizadas para Controle de Qualidade Visual de Fotografias Aéreas”. O controle de qualidade é um aspecto crucial da fotogrametria e do LiDAR (Light Detection and Ranging), garantindo a precisão e confiabilidade dos dados coletados. Na fotogrametria, os métodos tradicionais de controle de qualidade envolvem a identificação e correção de erros em pontos de controle do solo (Ground Control Points - GCPs) e imagens aéreas. No entanto, esses métodos podem ser demorados e trabalhosos, especialmente para projetos de grande porte. Com o advento da fotogrametria digital e do LiDAR, surgiram técnicas mais automatizadas para o controle de qualidade como a correspondência de imagens e a detecção de mudanças. Estas técnicas podem ajudar a melhorar a eficiência e precisão do controle de qualidade, mas ainda estão em desenvolvimento e podem ser sensíveis a condições de imagem e terreno. Existem muitos parâmetros para serem avaliados na fiscalização de fotografias aéreas. Alguns deles exigem uma análise que até o momento é feita, na maioria das vezes, de forma manual e visual, a exemplo da detecção de sombras, nuvens, fumaças, brumas, arrasto, saturação/brilho fora do normal, ruídos na imagem, desequilíbrio de cores, pixels zerados ou sobrepostos, dentre outros. Porém, para fazer essa fiscalização é necessária uma equipe com muitos profissionais capacitados, por conta do volume do material, o que não é a realidade de grande parte dos órgãos públicos. Assim sendo, seria de grande utilidade que esses parâmetros pudessem ser verificados de forma automatizada, o que poderia reduzir o tempo e o esforço humano no controle de qualidade, além de aumentar a consistência e precisão das análises.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://geoinformatica.eng.br/Orientacoes/Eliza/20250416_181520.jpg" class="img-fluid figure-img"></p>
+<figcaption>Eliza Silva Maia</figcaption>
+</figure>
+</div>
 <section id="desenvolvimento-de-rotinas-automatizadas-para-controle-de-qualidade-visual-de-fotografias-aéreas" class="level1">
 <h1>Desenvolvimento de Rotinas Automatizadas para Controle de Qualidade Visual de Fotografias Aéreas</h1>
 <p>Orientação: Prof.&nbsp;Mauro Alixandrini Co-orientação: Prof.&nbsp;Fabiano Freiman Programa de Pós-Graduação em Engenharia de Computação (PPEC/UFBA)</p>
@@ -36,17 +42,74 @@
   <media:content url="https://geoinformatica.eng.br/Orientacoes/Eliza/20250416_181520.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
-  <title>Eliza Silva Maia</title>
+  <title>Elmo Bispo de Oliveira</title>
   <link>https://geoinformatica.eng.br/Orientacoes/Elmo/</link>
   <description><![CDATA[ 
 
 
 
 
-<p>Eliza vem desenvolvendo um trabalho de mestrado no PPEC/UFBA sob minha orientação, e coorientação do Prof.&nbsp;Fabiano com o título “Desenvolvimento de Rotinas Automatizadas para Controle de Qualidade Visual de Fotografias Aéreas”. O controle de qualidade é um aspecto crucial da fotogrametria e do LiDAR (Light Detection and Ranging), garantindo a precisão e confiabilidade dos dados coletados. Na fotogrametria, os métodos tradicionais de controle de qualidade envolvem a identificação e correção de erros em pontos de controle do solo (Ground Control Points - GCPs) e imagens aéreas. No entanto, esses métodos podem ser demorados e trabalhosos, especialmente para projetos de grande porte. Com o advento da fotogrametria digital e do LiDAR, surgiram técnicas mais automatizadas para o controle de qualidade como a correspondência de imagens e a detecção de mudanças. Estas técnicas podem ajudar a melhorar a eficiência e precisão do controle de qualidade, mas ainda estão em desenvolvimento e podem ser sensíveis a condições de imagem e terreno. Existem muitos parâmetros para serem avaliados na fiscalização de fotografias aéreas. Alguns deles exigem uma análise que até o momento é feita, na maioria das vezes, de forma manual e visual, a exemplo da detecção de sombras, nuvens, fumaças, brumas, arrasto, saturação/brilho fora do normal, ruídos na imagem, desequilíbrio de cores, pixels zerados ou sobrepostos, dentre outros. Porém, para fazer essa fiscalização é necessária uma equipe com muitos profissionais capacitados, por conta do volume do material, o que não é a realidade de grande parte dos órgãos públicos. Assim sendo, seria de grande utilidade que esses parâmetros pudessem ser verificados de forma automatizada, o que poderia reduzir o tempo e o esforço humano no controle de qualidade, além de aumentar a consistência e precisão das análises.</p>
-<section id="desenvolvimento-de-rotinas-automatizadas-para-controle-de-qualidade-visual-de-fotografias-aéreas" class="level1">
-<h1>Desenvolvimento de Rotinas Automatizadas para Controle de Qualidade Visual de Fotografias Aéreas</h1>
-<p>Orientação: Prof.&nbsp;Mauro Alixandrini Co-orientação: Prof.&nbsp;Fabiano Freiman Programa de Pós-Graduação em Engenharia de Computação (PPEC/UFBA)</p>
+<p><img src="https://geoinformatica.eng.br/Orientacoes/Elmo/mini-curso.jpg" class="img-fluid"></p>
+<p>Elmo desenvolveu um trabalho de mestrado no PPEC/UFBA sob minha coorientação, e orientação da Prof.&nbsp;Vivian Fernandes o com o título “Integração de GeoIA e Fotogrametria com RPA para atualização Cartográfica em escala urbana”.</p>
+<p><img src="https://geoinformatica.eng.br/Orientacoes/Elmo/CardPPEC.jpg" class="img-fluid"></p>
+
+
+
+ ]]></description>
+  <category>Mestrado</category>
+  <category>PPEC</category>
+  <category>2024.1</category>
+  <guid>https://geoinformatica.eng.br/Orientacoes/Elmo/</guid>
+  <pubDate>Sat, 03 Jan 2026 03:00:00 GMT</pubDate>
+  <media:content url="https://geoinformatica.eng.br/Orientacoes/Elmo/Elmo_bispo.png" medium="image" type="image/png" height="180" width="144"/>
+</item>
+<item>
+  <title>João Marcos Batista Pereira</title>
+  <link>https://geoinformatica.eng.br/Orientacoes/João Marcos/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>João Marcos desenvolveu um trabalho de conclusão de curso de Engenharia de Agrimensura e Cartográfica - UFBA sob minha orientação e coorientação do Eng. Elmo Bispo de Oliveira com o título “INSPEÇÃO PREDIAL COM O USO DE SENSORES RGB EM DRONES PARA GERAR MODELOS 3D”.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://geoinformatica.eng.br/Orientacoes/João Marcos/20251219_175312.jpg" class="img-fluid figure-img"></p>
+<figcaption>Exame de TCC de João Marcos</figcaption>
+</figure>
+</div>
+<section id="resumo" class="level1">
+<h1>RESUMO</h1>
+<p>Este trabalho teve como objetivo avaliar a aplicabilidade do uso de aeronaves remotamente pilotas (RPAs) equipados com sensores RGB na inspeção predial de fachadas, por meio da geração de produtos aerofotogramétricos, tais como à obtenção de ortofotos, nuvem densa de pontos e modelos tridimensionais. A pesquisa foi desenvolvida a partir de um estudo de caso em edificação anexa à Escola Politécnica da Universidade Federal da Bahia (UFBA), utilizando voo manual em padrão vertical, com elevada sobreposição das imagens, visando alcançar o maior detalhamento possível no mento do tratamento dos dados. A metodologia adotada permitiu a identificação de manifestações patológicas superficiais, como degradação de revestimento, lacunas na fachada, infiltrações e exposição de armaduras. Os resultados demonstraram que a inspeção com RPAs apresenta elevada agilidade operacional, redução de riscos aos profissionais e eficiência na documentação do estado de conservação das fachadas, embora apresente limitações associadas à precisão absoluta quando não há o uso de técnicas de correção GNSS, como RTK ou PPK. Dessa forma, ficou evidente que a metodologia proposta constitui uma ferramenta técnica viável e complementar aos métodos convencionais de inspeção predial, fornecendo subsídios qualificados para o diagnóstico, planejamento de intervenções e apoio à tomada de decisão em edificações.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>Graduação</category>
+  <category>CEAC</category>
+  <category>2025.1</category>
+  <guid>https://geoinformatica.eng.br/Orientacoes/João Marcos/</guid>
+  <pubDate>Sat, 03 Jan 2026 03:00:00 GMT</pubDate>
+  <media:content url="https://geoinformatica.eng.br/Orientacoes/João Marcos/20251219_175312.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Waltério de Oliveira Goncalves</title>
+  <link>https://geoinformatica.eng.br/Orientacoes/Walterio/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="resumo-da-dissertação" class="level1">
+<h1>Resumo da Dissertação</h1>
+<p>Com a crescente demanda por eficiência na arrecadação municipal, a avaliação imobiliária adquiriu ainda mais relevância devido ao papel fundamental do Imposto Predial e Territorial Urbano (IPTU). Desde a implementação da Lei de Responsabilidade Fiscal, os municípios enfrentam a necessidade urgente de métodos mais robustos para calcular o valor venal dos imóveis, impulsionados pela busca por justiça tributária. Para garantir que os valores atribuídos aos imóveis reflitam de maneira justa suas características e localização, é essencial um planejamento detalhado e preciso. Este estudo teve como objetivo modelar parâmetros para a avaliação de imóveis urbanos, promovendo uma justa proporcionalidade na geração das Plantas de Valores Genéricos (PVG). A pesquisa foi realizada no município de Camaçari/BA, abrangendo partes dos bairros Arembepe, Barra de Jacuípe, Boa Esperança, Genipabu e Vale do Landirana, com uma amostra de 124 dados de imóveis do tipo terreno para a amostra de trabalho e 12 dados para a amostra de validação. A metodologia comparou a regressão clássica (MCRL) com modelos espaciais globais (CAR/SAR) e o modelo local de Regressão Geograficamente Ponderada (RGP). Os modelos gerados foram aplicados para capturar a variação espacial dos dados, e seu desempenho foi comparado por meio de indicadores de qualidade, como AIC, BIC, LIK, R² e RMSE, além de indicadores específicos para avaliação em massa, como Mediana das Razões (Med R), Coeficiente de Dispersão (COD) e Diferencial Relativo de Preço (PRD), conforme os critérios da International Association of Assessing Officers (IAAO). Os resultados indicaram que a RGP foi capaz de reduzir significativamente os efeitos espaciais, superando os demais modelos na maioria dos critérios de qualidade e desempenho. A metodologia foi combinada com a Krigagem Ordinária para gerar superfícies de valores unitários. O semivariograma ajustado ao modelo gaussiano permitiu a krigagem dos valores preditos, e a superfície gerada pelos valores preditos pela RGP obteve a menor raiz quadrada do erro quadrático médio (RMSE) e melhores indicadores de desempenho, próximos dos limites recomendados pela IAAO. Conclui-se que a modelagem RGP foi a mais eficaz para representar as variações espaciais dos valores imobiliários na área estudada, e a metodologia proposta para a geração da PVG demonstrou grande potencial para ser aplicada por municípios na avaliação em massa de imóveis urbanos, contribuindo para uma arrecadação tributária mais justa e precisa, especialmente para impostos como o IPTU e o ITBI.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://geoinformatica.eng.br/Orientacoes/Walterio/20250328_163907.jpg" class="img-fluid figure-img"></p>
+<figcaption>Waltério na sua defesa de Mestrado</figcaption>
+</figure>
+</div>
 
 
 </section>
@@ -54,10 +117,10 @@
  ]]></description>
   <category>Mestrado</category>
   <category>PPEC</category>
-  <category>2025.1</category>
-  <guid>https://geoinformatica.eng.br/Orientacoes/Elmo/</guid>
+  <category>2024.1</category>
+  <guid>https://geoinformatica.eng.br/Orientacoes/Walterio/</guid>
   <pubDate>Sat, 03 Jan 2026 03:00:00 GMT</pubDate>
-  <media:content url="https://geoinformatica.eng.br/Orientacoes/Elmo/20250416_181520.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://geoinformatica.eng.br/Orientacoes/Walterio/20250328_163804.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Taís Sousa Andrade</title>
@@ -75,7 +138,7 @@
 <h2 class="anchored" data-anchor-id="resumo">Resumo</h2>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="https://huggingface.co/neuralmind/bert-base-portuguese-cased"><img src="https://geoinformatica.eng.br/Bertimbau.png" class="img-fluid figure-img"></a></p>
+<p><a href="https://huggingface.co/neuralmind/bert-base-portuguese-cased"><img src="https://geoinformatica.eng.br/Orientacoes/Thais/Bertimbau.png" class="img-fluid figure-img"></a></p>
 <figcaption>Modelo BERT pretreinado - BERTimbau</figcaption>
 </figure>
 </div>
@@ -89,6 +152,12 @@
 </section>
 <section id="artigos" class="level1">
 <h1>Artigos</h1>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://geoinformatica.eng.br/Orientacoes/Thais/IMG-20250415-WA0006.jpg" class="img-fluid figure-img"></p>
+<figcaption>Tais Sousa Pereira</figcaption>
+</figure>
+</div>
 <p><a href="https://www.researchgate.net/publication/405210158_Geoparsing_of_Spatial_Coordinates_in_Brazilian_Land_Tenure_Documents_with_Deep_Learning">Geoparsing of Spatial Coordinates in Brazilian Land Tenure Documents with Deep Learning. Fourth International Workshop on Geographic Information Extraction from Texts (GeoExT 2026)At: Delft, The Netherlands, abril de 2026</a></p>
 <p><a href="https://www.researchgate.net/publication/391980386_INOVACOES_EM_PROCESSAMENTO_DE_LINGUAGEM_NATURAL_PARA_GEOPARSING_-_UMA_REVISAO_SISTEMATICA">INOVAÇÕES EM PROCESSAMENTO DE LINGUAGEM NATURAL PARA GEOPARSING - UMA REVISÃO SISTEMÁTICA. Conference: XXI Brazilian Symposium on Remote SensingAt: Salvador, maio de 2025</a></p>
 
