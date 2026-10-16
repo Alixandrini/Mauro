@@ -10,9 +10,72 @@
 <atom:link href="https://geoinformatica.eng.br/Projetos/index.xml" rel="self" type="application/rss+xml"/>
 <description>Mauro Alixandrini is a geoinformatics researcher and educator specialising in spatial data analysis, remote sensing, and geographic information systems. Author of Geoinformática: Uma Abordagem Prática para Engenheiros e Desenvolvedores (Editora Campus).</description>
 <generator>quarto-1.9.38</generator>
-<lastBuildDate>Sun, 03 Dec 2023 03:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 13 Dec 2024 03:00:00 GMT</lastBuildDate>
 <item>
-  <title>Escaneamento EP</title>
+  <title>Missão internacional</title>
+  <link>https://geoinformatica.eng.br/Projetos/Missão China/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="missão-acadêmica-de-cooperação-internacional-com-a-universidade-de-beihang---buaa" class="level1">
+<h1>Missão Acadêmica de Cooperação Internacional com a Universidade de Beihang - BUAA</h1>
+<p>A cooperação acadêmica e científica internacional une a Universidade Federal da Bahia (UFBA), por meio da Escola Politécnica, do seu Programa de Pós-Graduação em Engenharia Civil e dos departamentos de Engenharia de Transportes e Geodésia e de Engenharia Estrutural e de Construção, à Beihang University (BUAA), representada pela sua Escola de Ciência e Engenharia de Transportes.</p>
+<p>Esta iniciativa busca construir uma ponte de conhecimento e inovação tecnológica entre o Brasil e a China, promovendo o avanço conjunto nas áreas de infraestrutura de transportes inteligentes e engenharia de estruturas e construção.</p>
+<section id="objetivos-estratégicos" class="level2">
+<h2 class="anchored" data-anchor-id="objetivos-estratégicos">Objetivos Estratégicos</h2>
+<p>A colaboração entre os grupos de pesquisa das duas instituições estabeleceu os seguintes pilares estratégicos:</p>
+<p>💡 Pesquisa Conjunta e Financiamento: Elaboração e submissão de projetos integrados para captação de recursos e bolsas junto a agências fomento nacionais e internacionais.</p>
+<p>🎓 Formação e Coorientação Acadêmica: Intercâmbio de pesquisadores e coorientação de estudantes de pós-graduação.</p>
+<p>📜 Geração de Propriedade Intelectual: Produção científica conjunta de alto impacto, englobando a publicação de artigos acadêmicos em periódicos internacionais e o registro de patentes.</p>
+<p><a href="https://alixandrini.github.io/GPGEO/">Página da Missão</a></p>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>Extensão</category>
+  <category>Ensino</category>
+  <category>Pesquisa</category>
+  <guid>https://geoinformatica.eng.br/Projetos/Missão China/</guid>
+  <pubDate>Fri, 13 Dec 2024 03:00:00 GMT</pubDate>
+  <media:content url="https://geoinformatica.eng.br/Projetos/Missão China/china.webp" medium="image" type="image/webp"/>
+</item>
+<item>
+  <title>TED SPU</title>
+  <link>https://geoinformatica.eng.br/Projetos/SPU/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="modernização-e-aperfeiçoamento-dos-procedimentos-metodológicos-necessários-à-demarcação-das-áreas-de-domínio-constitucional-da-união" class="level1">
+<h1>Modernização e aperfeiçoamento dos procedimentos metodológicos necessários à demarcação das áreas de Domínio Constitucional da União</h1>
+</section>
+<section id="objeto" class="level1">
+<h1>Objeto</h1>
+<p>O presente projeto tem como objetivo principal a transferência tecnológica e de saberes, bem como o desenvolvimento e aperfeiçoamento de técnicas de mapeamento e monitoramento de demarcações de terras da União. Além das ações de capacitação prática de servidores técnicos da Secretaria do Patrimônio da União (SPU) no uso do software livre de geoprocessamento, o QGIS, o projeto também contempla a produção e sistematização de conhecimento científico-aplicado em geotecnologias, integrando investigação acadêmica, análise ambiental e desenvolvimento metodológico. Busca-se, assim, fortalecer a atuação institucional da SPU por meio de práticas fundamentadas em evidências científicas e inovações tecnológicas, contribuindo para a gestão sustentável do patrimônio da União.</p>
+</section>
+<section id="metodologia-de-trabalho" class="level1">
+<h1>Metodologia de trabalho</h1>
+<p>Para esse projeto foram organizadas atividades em quadros módulos temáticos: • Capacitação<br>
+• Estudo de Caracterização de Manguezais • Demarcação LPM e LMEO • Elaboração de produtos técnicos Os módulos se articulam a medida que conhecimentos desenvolvidos a partir da interação de equipes da UFBA e SPU interagem em capacitações, treinamentos e ofi cinas criadas a partir de estudos e domínio de áreas específi cas de conhecimento.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>Extensão</category>
+  <category>Ensino</category>
+  <category>Pesquisa</category>
+  <guid>https://geoinformatica.eng.br/Projetos/SPU/</guid>
+  <pubDate>Fri, 13 Dec 2024 03:00:00 GMT</pubDate>
+  <media:content url="https://geoinformatica.eng.br/Projetos/SPU/SPU.jpeg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Escaneamento Lidar</title>
   <link>https://geoinformatica.eng.br/Projetos/EP/</link>
   <description><![CDATA[ 
 
@@ -22,6 +85,10 @@
 <section id="nuvem-lidar-obtida-na-ep" class="level2">
 <h2 class="anchored" data-anchor-id="nuvem-lidar-obtida-na-ep">Nuvem Lidar obtida na EP</h2>
 <p>Nuvem escaneado com FJD Trion P1 e convertida para o formato Potree <a href="https://3dgis.geoinformatica.eng.br/"><img src="https://geoinformatica.eng.br/Projetos/EP/print.png" class="img-fluid"></a></p>
+</section>
+<section id="nuvem-lidar-obtida-no-lcad" class="level2">
+<h2 class="anchored" data-anchor-id="nuvem-lidar-obtida-no-lcad">Nuvem Lidar obtida no LCAD</h2>
+<p>Nuvem escaneado com FJD Trion P1 e convertida para o formato Potree <a href="https://geoinformatica.eng.br/LCAD/"><img src="https://geoinformatica.eng.br/Projetos/EP/print.png" class="img-fluid"></a></p>
 
 
 </section>
@@ -32,28 +99,6 @@
   <guid>https://geoinformatica.eng.br/Projetos/EP/</guid>
   <pubDate>Sun, 03 Dec 2023 03:00:00 GMT</pubDate>
   <media:content url="https://geoinformatica.eng.br/Projetos/EP/print.png" medium="image" type="image/png" height="121" width="144"/>
-</item>
-<item>
-  <title>Escaneamento LCAD</title>
-  <link>https://geoinformatica.eng.br/Projetos/LCAD/</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="nuvem-lidar-obtida-no-lcad" class="level2">
-<h2 class="anchored" data-anchor-id="nuvem-lidar-obtida-no-lcad">Nuvem Lidar obtida no LCAD</h2>
-<p>Nuvem escaneado com FJD Trion P1 e convertida para o formato Potree <a href="https://geoinformatica.eng.br/LCAD/"><img src="https://geoinformatica.eng.br/Projetos/LCAD/print.png" class="img-fluid"></a></p>
-
-
-</section>
-
- ]]></description>
-  <category>Extensão</category>
-  <category>Ensino</category>
-  <guid>https://geoinformatica.eng.br/Projetos/LCAD/</guid>
-  <pubDate>Sun, 03 Dec 2023 03:00:00 GMT</pubDate>
-  <media:content url="https://geoinformatica.eng.br/Projetos/LCAD/print.png" medium="image" type="image/png" height="115" width="144"/>
 </item>
 <item>
   <title>Cooperação Técnica com a Prefeitura de Salvador</title>

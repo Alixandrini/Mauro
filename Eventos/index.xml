@@ -10,7 +10,39 @@
 <atom:link href="https://geoinformatica.eng.br/Eventos/index.xml" rel="self" type="application/rss+xml"/>
 <description>Mauro Alixandrini is a geoinformatics researcher and educator specialising in spatial data analysis, remote sensing, and geographic information systems. Author of Geoinformática: Uma Abordagem Prática para Engenheiros e Desenvolvedores (Editora Campus).</description>
 <generator>quarto-1.9.38</generator>
-<lastBuildDate>Fri, 03 Jan 2025 03:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 03 Sep 2026 03:00:00 GMT</lastBuildDate>
+<item>
+  <title>Colóquio Brasileiro de Ciências Geodésicas 2026</title>
+  <link>https://geoinformatica.eng.br/Eventos/CBCG/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><img src="https://geoinformatica.eng.br/Eventos/CBCG/CBCG.png" class="img-fluid"></p>
+<section id="sobre-o-xiv-cbcg" class="level1">
+<h1>Sobre o XIV CBCG</h1>
+<p>O XIV Colóquio Brasileiro de Ciências Geodésicas (CBCG) é um evento promovido pelo Programa de Pós-Graduação em Ciências Geodésicas (PPGCG), vinculado ao Departamento de Geomática do Setor de Ciências da Terra da Universidade Federal do Paraná (UFPR). Desde sua criação, em 1999, o colóquio tem se consolidado como um importante espaço de encontro, diálogo e disseminação do conhecimento científico, tecnológico e de inovação na área das Ciências Geodésicas.</p>
+<p>Ao longo de suas edições, o CBCG tem contribuído para atender à demanda por eventos com enfoque acadêmico e científico nas áreas de Geodésia, Cartografia e Sensoriamento Remoto, reunindo pesquisadores, profissionais, docentes e estudantes de diversas regiões do Brasil e do exterior. Em sua décima quarta edição, o evento reafirma seu compromisso com o intercâmbio de ideias e com o fortalecimento da comunidade científica.</p>
+<p>A programação do CBCG contempla minicursos, palestras com especialistas convidados, sessões de apresentação de trabalhos científicos, sessões de pôsteres e mesas-redondas. Essas atividades proporcionam um ambiente dinâmico e colaborativo, favorecendo a discussão de temas atuais e relevantes, bem como a troca de experiências e a construção de parcerias.</p>
+<p>Além disso, o evento promove reflexões sobre o papel das Ciências Geodésicas no desenvolvimento científico, tecnológico e na inovação, especialmente no contexto de projetos estratégicos nacionais e do desenvolvimento social. Também abre espaço para o debate sobre tendências e perspectivas futuras da área, contribuindo para a formação e atualização contínua de seus participantes.</p>
+</section>
+<section id="publicação" class="level1">
+<h1>Publicação</h1>
+<p><a href="https://zenodo.org/records/22884597">ZENODO</a></p>
+
+
+</section>
+
+ ]]></description>
+  <category>POSGEO</category>
+  <category>PPEC</category>
+  <category>pós-graduação</category>
+  <category>Cartografia</category>
+  <guid>https://geoinformatica.eng.br/Eventos/CBCG/</guid>
+  <pubDate>Thu, 03 Sep 2026 03:00:00 GMT</pubDate>
+  <media:content url="https://geoinformatica.eng.br/Eventos/CBCG/CBCG.png" medium="image" type="image/png" height="157" width="144"/>
+</item>
 <item>
   <title>Seminário de Informações Geoespaciais - SPIE2026</title>
   <link>https://geoinformatica.eng.br/Eventos/SPIE/</link>

@@ -10,7 +10,155 @@
 <atom:link href="https://geoinformatica.eng.br/Orientacoes/index.xml" rel="self" type="application/rss+xml"/>
 <description>Mauro Alixandrini is a geoinformatics researcher and educator specialising in spatial data analysis, remote sensing, and geographic information systems. Author of Geoinformática: Uma Abordagem Prática para Engenheiros e Desenvolvedores (Editora Campus).</description>
 <generator>quarto-1.9.38</generator>
-<lastBuildDate>Sat, 03 Jan 2026 03:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 16 Oct 2026 03:00:00 GMT</lastBuildDate>
+<item>
+  <title>Layra Rocha Ribeiro de Magalhães</title>
+  <link>https://geoinformatica.eng.br/Orientacoes/Layra/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="a-influência-do-ambiente-construído-na-segurança-viaria-em-países-em-desenvolvimento" class="level1">
+<h1>A influência do Ambiente Construído na Segurança Viaria em Países em Desenvolvimento</h1>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://geoinformatica.eng.br/Orientacoes/Layra/IMG-20251210-WA0007.jpg" class="img-fluid figure-img"></p>
+<figcaption>Defesa de Layra Rocha Ribeiro de Magalhães</figcaption>
+</figure>
+</div>
+<p>Orientação: Juan Delgado</p>
+<p>Co-orientação: Mauro Alixandrini</p>
+</section>
+<section id="resumo" class="level1">
+<h1>RESUMO</h1>
+<p>O ambiente construído das áreas urbanas dos países latino-americanos é orientado por políticas de uso do solo inadequadas e a falta de investimento em infraestruturas, em geral, o qual em muitos casos, provocam problemas tais como, a expansão urbana desordenada, a segregação urbana, a degradação do espaço público, a poluição do ar e sonora, assim como, um elevado número de acidentes de trânsito. Os acidentes de trânsito, em particular, destacam-se como um dos principais problemas devido aos elevados custos socioeconômicos associados. No Brasil, o trânsito é classificado pela Organização Mundial da Saúde (OMS) como o quinto mais perigoso do mundo. Sem ações urgentes, as projeções indicam que, até 2030, as mortes no trânsito serão a quinta principal causa de morte globalmente (OMS, 2018). Em resposta a essa crise, a ONU e a OMS lançaram a Década de Ação pela Segurança no Trânsito 2011-2020, buscando reduzir pela metade as fatalidades no trânsito. Esse esforço incluiu o Plano de Ação Global, com foco especial nos usuários vulneráveis das vias (VRU). Nas grandes cidades brasileiras, o uso inadequado do solo, a precariedade do ambiente construído e a proliferação de vias com alto fluxo de veículos contribuem significativamente para a ocorrência de atropelamentos (CET-SP, 2016). Estudos mostram que o investimento em intervenções de segurança viária é crucial, especialmente em países em desenvolvimento, onde os acidentes de trânsito continuam sendo um grave problema de saúde pública (Subhan et al., 2021). Em 2020, o Brasil registrou 32.716 mortes em acidentes de trânsito, uma média de três mortes por hora. Apesar de uma redução de 30% nas fatalidades entre 2011 e 2020, o aumento contínuo no número de veículos e a expansão urbana descontrolada intensificam os riscos associados à segurança viária nas áreas urbanas. Um aspecto crítico desse cenário é a presença de Polos Geradores de Viagens (PGV), como shopping centers, instituições de ensino, centros de saúde e lazer, os quais ao não estar bem localizados, aumentam o fluxo de pessoas e veículos, potencializando os riscos de acidentes. A adequada compreensão da interação entre ambiente construído, o tráfego e os acidentes de trânsito é fundamental para a formulação de intervenções eficazes no sistema viário e na cidade. Este trabalho justifica-se na análise dos fatores associados ao meio ambiente construído que contribuem para a ocorrência de sinistros é fundamental, visando desenvolver intervenções eficazes. Esses fatores estão relacionados com a configuração das vias, características da sinalização, condições de pavimentação e iluminação, características do espaço público em geral, entre outros. Ao identificar esses elementos, é possível propor soluções que mitiguem os riscos de acidentes de forma eficiente e sustentada.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>Pós-graduação</category>
+  <category>PPEC</category>
+  <category>2025.2</category>
+  <guid>https://geoinformatica.eng.br/Orientacoes/Layra/</guid>
+  <pubDate>Fri, 16 Oct 2026 03:00:00 GMT</pubDate>
+  <media:content url="https://geoinformatica.eng.br/Orientacoes/Layra/Layra.png" medium="image" type="image/png" height="180" width="144"/>
+</item>
+<item>
+  <title>Nívea Pinheiro</title>
+  <link>https://geoinformatica.eng.br/Orientacoes/Nivea/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="geostorias-para-avaliar-a-pressão-sobre-os-recursos-hídricos-no-estado" class="level1">
+<h1>Geostorias para avaliar a pressão sobre os recursos hídricos no Estado</h1>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://geoinformatica.eng.br/Orientacoes/Nivea/20250416_171621.jpg" class="img-fluid figure-img"></p>
+<figcaption>Nívea Pinheiro</figcaption>
+</figure>
+</div>
+</section>
+<section id="resumo" class="level1">
+<h1>RESUMO</h1>
+<p>Este trabalho cria geostorias para avaliar a pressão sobre os recursos hídricos na Bahia, com foco nas bacias dos rios Corrente, Paraguaçu, de Contas, Grande e Itapicuru. A pesquisa utiliza ferramentas de Sistemas de Informação Geográfica (SIG) e SIGWeb para desenvolver mapas interativos e geostories, visando facilitar o acesso à informação sobre recursos hídricos para o público não acadêmico. Foram coletados e processados dados geoespaciais de portais IDE, utilizando o QGIS e o Geoserver para disponibilizar serviços OGC (WMS e WFS). Adicionalmente, dados não geoespaciais, como imagens e vídeos, foram incorporados para enriquecer o conteúdo. Os resultados demonstram o potencial dessas ferramentas para a criação de materiais de divulgação web intuitivos e acessíveis, contribuindo para a gestão participativa e a segurança hídrica no estado, ao democratizar o acesso à informação e fomentar a participação social na gestão das águas.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>Graduação</category>
+  <category>Geografia</category>
+  <category>2024.1</category>
+  <guid>https://geoinformatica.eng.br/Orientacoes/Nivea/</guid>
+  <pubDate>Tue, 13 Oct 2026 03:00:00 GMT</pubDate>
+  <media:content url="https://geoinformatica.eng.br/Orientacoes/Nivea/20250416_171621.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Fábio Alessandro</title>
+  <link>https://geoinformatica.eng.br/Orientacoes/Fabio/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="modelagem-híbrida-da-dinâmica-espacial-urbana-no-cabula-salvador" class="level1">
+<h1>MODELAGEM HÍBRIDA DA DINÂMICA ESPACIAL URBANA NO CABULA (SALVADOR)</h1>
+</section>
+<section id="resumo" class="level1">
+<h1>RESUMO</h1>
+<p>A redução progressiva de áreas vegetadas em zonas urbanas consolidadas intensifica a escassez de espaços ambientalmente qualificados, influenciando processos de valorização territorial, adensamento construtivo e priorização de infraestrutura urbana. Nesse contexto, torna-se relevante compreender como a dinâmica histórica de expansão urbana condiciona cenários futuros de transformação espacial e valorização imobiliária em áreas urbanas consolidadas, tomando como área de estudo o bairro do Cabula, em Salvador. Este estudo tem como objetivo desenvolver uma modelagem prospectiva capaz de analisar e simular padrões futuros de transformação urbana a partir da integração entre aprendizado de máquina e modelagem da dinâmica espacial. A metodologia proposta combina classificação orientada a objetos de imagens multitemporais de alta resolução espacial, realizada no ambiente QGIS com suporte do Orfeo Toolbox e aplicação do algoritmo Random Forest, com análise das transições de classes de uso e cobertura da terra e modelagem espacial dinâmica baseada em Autômatos Celulares e Pesos de Evidência no Dinamica EGO. O modelo será calibrado a partir de transições históricas observadas e validado temporalmente mediante comparação entre cenários simulados e dados reais posteriores, permitindo a construção de projeções espaciais para horizontes futuros de 25 a 30 anos. Como resultados esperados, busca-se identificar tendências de expansão urbana, supressão de vegetação e intensificação do adensamento construtivo, evidenciando áreas com maior potencial de valorização territorial e pressão por infraestrutura, contribuindo para o planejamento urbano orientado por evidências e para a compreensão das dinâmicas espaciais contemporâneas.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>Graduação</category>
+  <category>CCEAC</category>
+  <category>2024.1</category>
+  <guid>https://geoinformatica.eng.br/Orientacoes/Fabio/</guid>
+  <pubDate>Sat, 03 Oct 2026 03:00:00 GMT</pubDate>
+  <media:content url="https://geoinformatica.eng.br/Orientacoes/Fabio/Fabio_Alessandro_TCC.png" medium="image" type="image/png" height="144" width="144"/>
+</item>
+<item>
+  <title>Hanna Bittencourt</title>
+  <link>https://geoinformatica.eng.br/Orientacoes/Hanna/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://geoinformatica.eng.br/Orientacoes/Hanna/Hanna.png" class="img-fluid figure-img"></p>
+<figcaption>Hanna Bittencout</figcaption>
+</figure>
+</div>
+<section id="resumo" class="level1">
+<h1>RESUMO</h1>
+<p>A intensificação dos processos de urbanização, aliada aos impactos das alterações climáticas e à escassez hídrica, impõe desafios crescentes à gestão e ao ordenamento territorial. No Brasil, apesar do avanço normativo propiciado pela Política Nacional de Recursos Hídricos (Lei n.º 9.433/1997) e pelo Estatuto da Cidade (Lei n.º 10.257/2001), persiste uma fragmentação evidente entre o planeamento do uso e ocupação do solo — delimitado pelas fronteiras político-administrativas municipais — e a gestão das águas, cuja unidade de referência é a bacia hidrográfica. Essa desconexão institucional e técnica limita a eficácia das políticas públicas, intensifica conflitos de uso do solo e agrava vulnerabilidades socioambientais, sobretudo em áreas metropolitanas e intermunicipais. Diante deste cenário, este trabalho tem como objetivo desenvolver e validar um modelo metodológico participativo para a integração entre Planos Diretores Municipais e Planos de Recursos Hídricos, articulando instrumentos normativos, geotecnologias e mecanismos de governança. A fundamentação teórica sustenta que a compatibilização entre o ordenamento urbano e o regime hidrológico favorece a mitigação de secas e cheias por meio de infraestruturas verdes e de drenagem sustentável, a conservação de ecossistemas e a melhoria da qualidade da água, além de viabilizar o uso de modelos de bacia e sistemas de suporte à decisão. Como contributo prático, a investigação propõe fornecer a gestores públicos e comités de bacia um referencial aplicável e replicável, baseado em diretrizes metodológicas, cláusulas normativas e indicadores de monitorização, promovendo o alinhamento entre desenvolvimento urbano sustentável e conservação ambiental.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>Pós-graduação</category>
+  <category>Profágua</category>
+  <category>2025.1</category>
+  <guid>https://geoinformatica.eng.br/Orientacoes/Hanna/</guid>
+  <pubDate>Sat, 03 Oct 2026 03:00:00 GMT</pubDate>
+  <media:content url="https://geoinformatica.eng.br/Orientacoes/Hanna/Hanna.png" medium="image" type="image/png" height="144" width="144"/>
+</item>
+<item>
+  <title>Matheus Dumas</title>
+  <link>https://geoinformatica.eng.br/Orientacoes/Matheus/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="modelagem-conceitual-e-lógica-de-um-banco-de-dados-geográfico-aplicado-à-gestão-fiscal-e-cadastral-municipal" class="level1">
+<h1>Modelagem Conceitual e Lógica de um Banco de Dados Geográfico Aplicado à Gestão Fiscal e Cadastral Municipal</h1>
+<p>Orientação: Fabiola Andrade Coorientação: Mauro Alixandrini</p>
+</section>
+<section id="objetivo-geral" class="level1">
+<h1>Objetivo Geral:</h1>
+<p>Formular o problema, construir o arcabouço teórico-metodológico e entregar a modelagem conceitual acompanhada de um diagnóstico técnico da situação cadastral/fiscal.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>Graduação</category>
+  <category>CCEAC</category>
+  <category>2024.1</category>
+  <guid>https://geoinformatica.eng.br/Orientacoes/Matheus/</guid>
+  <pubDate>Sat, 03 Oct 2026 03:00:00 GMT</pubDate>
+  <media:content url="https://geoinformatica.eng.br/Orientacoes/Matheus/Matheus_Dumas_TCC.png" medium="image" type="image/png" height="144" width="144"/>
+</item>
 <item>
   <title>Eliza Silva Maia</title>
   <link>https://geoinformatica.eng.br/Orientacoes/Eliza/</link>

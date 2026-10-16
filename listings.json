@@ -1,7 +1,18 @@
 [
   {
+    "listing": "/Projetos/index.html",
+    "items": [
+      "/Projetos/Missão China/index.html",
+      "/Projetos/SPU/index.html",
+      "/Projetos/EP/index.html",
+      "/Projetos/PMS/index.html",
+      "/Projetos/WebUFBA/index.html"
+    ]
+  },
+  {
     "listing": "/Eventos/index.html",
     "items": [
+      "/Eventos/CBCG/index.html",
       "/Eventos/SPIE/index.html"
     ]
   },
@@ -18,20 +29,16 @@
   {
     "listing": "/Orientacoes/index.html",
     "items": [
+      "/Orientacoes/Layra/index.html",
+      "/Orientacoes/Nivea/index.html",
+      "/Orientacoes/Fabio/index.html",
+      "/Orientacoes/Hanna/index.html",
+      "/Orientacoes/Matheus/index.html",
       "/Orientacoes/Eliza/index.html",
       "/Orientacoes/Elmo/index.html",
       "/Orientacoes/João Marcos/index.html",
       "/Orientacoes/Walterio/index.html",
       "/Orientacoes/Thais/index.html"
-    ]
-  },
-  {
-    "listing": "/Projetos/index.html",
-    "items": [
-      "/Projetos/EP/index.html",
-      "/Projetos/LCAD/index.html",
-      "/Projetos/PMS/index.html",
-      "/Projetos/WebUFBA/index.html"
     ]
   }
 ]
